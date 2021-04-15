@@ -1,0 +1,353 @@
+Product code (HS),Product description (HS),Product description (FAOSTAT),Root product (HS),Product fraction (pf),Value fraction (vf),Global average (Green),Global average (Blue),Global average (Grey),Total Global average
+100110 / 100190,"Wheat (Durum wheat, Wheat nes and meslin)",Wheat,100110 / 100190,1.00,1.00,1277.0,342.0,207.0,1826.0
+110100,Wheat or meslin flour,,100190,0.79,0.80,1292.0,347.0,210.0,1849.0
+110100a,Wheat bread,,110100,1.15,1.00,1124.0,301.0,183.0,1608.0
+110100b,Dry pasta,,110100,1.00,1.00,1292.0,347.0,210.0,1849.0
+110311,Wheat groats and meal,,110321,1.00,1.00,1423.0,382.0,231.0,2036.0
+110321,Wheat pellets,,100110,0.18,0.20,1423.0,382.0,231.0,2036.0
+110811,"Wheat, starch",,110100,0.85,0.66,1004.0,269.0,163.0,1436.0
+110900,"Wheat gluten, whether or not dried",,110100,0.15,0.34,2928.0,785.0,476.0,4189.0
+100610,Rice in the husk (paddy or rough),"Rice, paddy",100610,1.00,1.00,1146.0,341.0,187.0,1674.0
+100620,"Rice, husked (brown)",,100610,0.77,1.00,1488.0,443.0,242.0,2173.0
+100630,"Rice, semi-milled or wholly milled, whether or not polished or glazed",,100620,0.90,1.00,1653.0,492.0,269.0,2414.0
+100640,"Rice, broken",,100610,0.67,1.00,1710.0,509.0,278.0,2497.0
+110230,Rice flour,,100640,0.95,1.00,1800.0,535.0,293.0,2628.0
+110314,Rice groats and meal,,100610,0.75,1.00,1527.0,454.0,249.0,2230.0
+100300,Barley,Barley,100300,1.00,1.00,1213.0,79.0,131.0,1423.0
+110411,"Barley, rolled or flaked grains",,100300,0.72,1.00,1685.0,110.0,182.0,1977.0
+110421,"Barley,hulled,pearled,sliced or kibbled",,100300,0.72,1.00,1685.0,110.0,182.0,1977.0
+110710,"Malt, not roasted",,100300,0.73,1.00,1662.0,108.0,180.0,1950.0
+110720,"Malt, roasted",,110710,0.80,1.00,2078.0,135.0,225.0,2438.0
+220300,Beer made from malt,,110710,6.55,1.00,254.0,16.0,27.0,297.0
+1005,Maize (corn),Maize,1005,1.00,1.00,947.0,81.0,194.0,1222.0
+100590,Maize (corn) nes,,1005a,1.00,1.00,947.0,81.0,194.0,1222.0
+110220,Maize (corn) flour,,100590,0.82,0.84,971.0,83.0,199.0,1253.0
+110313,Maize (corn) groats and meal,,100590,0.11,0.10,837.0,72.0,171.0,1080.0
+110423,"Maize (corn), hulled, pearled, sliced or kibbled",,100590,0.93,1.00,1018.0,87.0,209.0,1314.0
+110812,Maize (corn) starch,,110220,0.75,1.00,1295.0,111.0,265.0,1671.0
+151521,Maize (corn) oil crude,,100590,0.03,0.06,1956.0,168.0,400.0,2524.0
+151529,"Maize (corn) oil and its fractions,refined but not chemically modified",,151521,0.98,1.00,1996.0,171.0,409.0,2576.0
+100200,Rye,Rye,100200,1.00,1.00,1419.0,25.0,99.0,1543.0
+110210,Rye flour,,100200,0.80,1.00,1774.0,32.0,124.0,1930.0
+100400,Oats,Oats,100400,1.00,1.00,1479.0,181.0,128.0,1788.0
+110312,Oat groats and meal,,100400,0.20,0.28,2098.0,257.0,182.0,2537.0
+110412,"Oats, rolled or flaked grains",,100400,0.53,0.72,1998.0,245.0,173.0,2416.0
+110422,"Oats, hulled,pearled,sliced or kibbled",,100400,0.73,1.00,2026.0,248.0,175.0,2449.0
+100820,Millet,Millet,100820,1.00,1.00,4306.0,57.0,115.0,4478.0
+100700,Grain sorghum,Sorghum,100700,1.00,1.00,2857.0,103.0,87.0,3047.0
+100810,Buckwheat,Buckwheat,100810,1.00,1.00,2769.0,144.0,229.0,3142.0
+100890ac,Quinoa,Quinoa,100890ac,1.00,1.00,4184.0,48.0,280.0,4512.0
+100890ad,Fonio,Fonio,100890ad,1.00,1.00,4938.0,50.0,13.0,5001.0
+100890ae,Triticale,Triticale,100890ae,1.00,1.00,826.0,38.0,89.0,953.0
+100830,Canary seed,Canary seed,100830,1.00,1.00,4872.0,2.0,314.0,5188.0
+100890af,Mixed grain,Mixed grain,100890af,1.00,1.00,1598.0,33.0,28.0,1659.0
+100890,Cereals unmilled nes,"Cereals, nes",100890,1.00,1.00,3316.0,115.0,9.0,3440.0
+110290,Cereal flour nes,,100890,0.79,0.83,3468.0,121.0,9.0,3598.0
+110319,Cereal groats and meal nes,,110329,1.00,1.00,2896.0,101.0,8.0,3005.0
+110329,Cereal pellets nes,,100890,0.18,0.16,2896.0,101.0,8.0,3005.0
+110419,"Cereals, rolled or flaked grains nes",,100890,0.85,1.00,3902.0,136.0,10.0,4048.0
+110429,"Cereals, hulled, pearled, sliced or kibbled nes",,100890,0.85,1.00,3902.0,136.0,10.0,4048.0
+110430,"Germ of cereals, whole, rolled, flaked or ground",,100890,0.02,0.02,2757.0,96.0,7.0,2860.0
+070190,"Potatoes, fresh or chilled nes",Potatoes,070190,1.00,1.00,191.0,33.0,63.0,287.0
+070190a,Tapioca of potatoes,,070190,0.20,1.00,955.0,165.0,317.0,1437.0
+071010,"Potatoes, frozen",,070190,0.50,1.00,382.0,66.0,127.0,575.0
+110510,Potato flour and meal,,070190,0.20,1.00,955.0,165.0,317.0,1437.0
+110520,Potato flakes,,070190,0.28,1.00,694.0,120.0,230.0,1044.0
+110813,Potato starch,,070190,0.19,1.00,1005.0,173.0,333.0,1511.0
+071420,"Sweet potatoes, fresh or dried, whether or not sliced or pelleted",Sweet potatoes,071420,1.00,1.00,324.0,5.0,53.0,382.0
+071410,"Manioc (cassava), fresh or dried, whether or not sliced or pelleted",Cassava,071410,1.00,1.00,550.0,0.0,13.0,563.0
+071410a,Tapioca of cassava,,071410,0.20,1.00,2750.0,1.0,66.0,2817.0
+071410b,Flour of cassava,,071410,0.30,1.00,1833.0,1.0,44.0,1878.0
+071410c,Dried cassava,,071410,0.35,1.00,1571.0,1.0,38.0,1610.0
+110814,Manioc (cassava) starch,,071410,0.25,1.00,2200.0,1.0,53.0,2254.0
+071490ba,Yautia (cocoyam),Yautia (cocoyam),071490ba,1.00,1.00,849.0,22.0,11.0,882.0
+071490_bb,Taro (coco yam),Taro (coco yam),071490_bb,1.00,1.00,587.0,3.0,15.0,605.0
+071490_a,Yams,Yams,071490_a,1.00,1.00,341.0,0.0,1.0,342.0
+070690,"Salad beetroot,salsif,celeriac,radish&sim edibl roots,fresh/chilld nes",,071490_bc,1.00,1.00,348.0,15.0,22.0,385.0
+071490,"Arrowroot,salep etc fr o drid whether o not slicd o pelletd&sago pith",,071490_bc,1.00,1.00,348.0,15.0,22.0,385.0
+071490_bc,Roots and tubers nes,Roots and tubers nes,071490_bc,1.00,1.00,348.0,15.0,22.0,385.0
+110620,Flour&meal of sago&of roots or tubers with hi starch or inulin content,,070690,0.25,1.00,1392.0,61.0,88.0,1541.0
+121292,"Sugar cane, fresh or dried, whether or not ground",Sugar cane,121292,1.00,1.00,139.0,57.0,13.0,209.0
+170111,"Raw sugar, cane",,121292,0.11,0.87,1107.0,455.0,104.0,1666.0
+170191,"Refined sugar,in solid form,containg added flavourg or colourg matter",,170111,0.94,1.00,1184.0,487.0,111.0,1782.0
+170199,"Refined sugar, in solid form, nes",,170191,1.00,1.00,1184.0,487.0,111.0,1782.0
+170220,Maple sugar and maple syrup,,170191,1.00,1.00,1184.0,487.0,111.0,1782.0
+170230,Glucose&glucose syrup nt cntg fruct/cntg in dry state <20% by wt fruct,,170191,1.00,1.00,1184.0,487.0,111.0,1782.0
+170240,Glucose inc syrup cntg in dry state min 20% but <50% by wt of fructose,,170191,1.00,1.00,1184.0,487.0,111.0,1782.0
+170250,"Fructose, chemically pure",,170191,1.00,1.00,1184.0,487.0,111.0,1782.0
+170260,"Fructose&fructose syrup nes,cntg in dry state >50% by wght of fructose",,170191,1.00,1.00,1184.0,487.0,111.0,1782.0
+170310,Cane molasses,,121292,0.05,0.13,350.0,144.0,33.0,527.0
+121291,"Sugar beet, fresh or dried, whether or not ground",Sugar beet,121291,1.00,1.00,82.0,26.0,25.0,133.0
+170112,"Raw sugar, beet",,121291,0.14,0.92,535.0,167.0,162.0,864.0
+170390,Molasses nes,,121291,0.05,0.08,139.0,43.0,42.0,224.0
+121299ab,"Sugar crops, nes","Sugar crops, nes",121299ab,1.00,1.00,980.0,500.0,94.0,1574.0
+170290,"Sugar nes, including invert sugar",,121299ab,0.10,1.00,9795.0,500.0,935.0,11230.0
+071332,"Beans,small red (Adzuki) dried,shelled,whether or not skinned or split","Beans, dry",071332,1.00,1.00,3945.0,125.0,983.0,5053.0
+071333,"Kidney beans&white pea beans drid shelld,whether o not skinnd o split",,071332,1.00,1.00,3945.0,125.0,983.0,5053.0
+071339,"Beans dried, shelled, whether or not skinned or split, nes",,071332,1.00,1.00,3945.0,125.0,983.0,5053.0
+110610,Flour and meal of the dried leguminous vegetables of heading No 07.13,,071332,0.72,1.00,5479.0,173.0,1366.0,7018.0
+071350,"Broad beans&horse beans dried,shelled,whether or not skinned or split","Broad beans, horse beans, dry",071350,1.00,1.00,1317.0,205.0,496.0,2018.0
+071310,"Peas dried, shelled, whether or not skinned or split","Peas, dry",071310,1.00,1.00,1453.0,33.0,493.0,1979.0
+071320,"Chickpeas, dried, shelled, whether or not skinned or split",Chick peas,071320,1.00,1.00,2972.0,224.0,981.0,4177.0
+07133_b,"Cow peas, dry","Cow peas, dry",07133_b,1.00,1.00,6841.0,10.0,55.0,6906.0
+071390aa,Pigeon peas,Pigeon peas,071390aa,1.00,1.00,4739.0,72.0,683.0,5494.0
+071340,"Lentils dried, shelled, whether or not skinned or split",Lentils,071340,1.00,1.00,4324.0,489.0,1060.0,5873.0
+071390ad,Bambara beans,Bambara beans,071390ad,1.00,1.00,3162.0,71.0,34.0,3267.0
+071390ac,Vetches,Vetches,071390ac,1.00,1.00,2031.0,109.0,213.0,2353.0
+071390ab,Lupins,Lupins,071390ab,1.00,1.00,1350.0,21.0,506.0,1877.0
+071331,"Urd,mung,black/green gram beans drid shelld,whether/not skinnd/split",,071390ae,1.00,1.00,2217.0,250.0,650.0,3117.0
+071390ae,Pulses nes,Pulses nes,071390ae,1.00,1.00,2217.0,250.0,650.0,3117.0
+080121,"Brazil nuts, with shell","Brazil nuts, with shell",080121,1.00,1.00,12000.0,1500.0,500.0,1400.0
+080131_a,Cashew nuts,Cashew nuts,080131_a,1.00,1.00,12853.0,921.0,444.0,14218.0
+080240,"Chestnuts, fresh or dried, whether or not shelled or peeled",Chestnuts,080240,1.00,1.00,2432.0,174.0,144.0,2750.0
+080211,Almonds in shell fresh or dried,"Almonds, with shell",080211,1.00,1.00,4632.0,1908.0,1507.0,8047.0
+080212,"Almonds,fresh or dried,shelled or peeled",,080211,0.50,1.00,9264.0,3816.0,3015.0,16095.0
+080231,"Walnuts in shell, fresh or dried","Walnuts, with shell",080231,1.00,1.00,2805.0,1299.0,814.0,4918.0
+080232,"Walnuts, fresh or dried, shelled or peeled",,080231,0.53,1.00,5293.0,2451.0,1536.0,9280.0
+080250,"Pistachios, fresh or dried, whether or not shelled or peeled",Pistachios,080250,1.00,1.00,3095.0,7602.0,666.0,11363.0
+080290aa,Kolanuts,Kolanuts,080290aa,1.00,1.00,23345.0,26.0,19.0,23390.0
+080221,Hazelnuts or filberts in shell fresh or dried,"Hazelnuts, with shell",080221,1.00,1.00,3813.0,1090.0,354.0,5257.0
+080222,"Hazelnuts or filberts, fresh or dried, shelled or peeled",,080221,0.50,1.00,7627.0,2180.0,709.0,10516.0
+080290ab,Arecanuts,Arecanuts,080290ab,1.00,1.00,10621.0,139.0,406.0,11166.0
+080290,"Nuts edible, fresh or dried, whether or not shelled or peeled, nes","Nuts, nes",080290,1.00,1.00,8379.0,1156.0,891.0,10426.0
+120100,Soya beans,Soybeans,120100,1.00,1.00,2037.0,70.0,37.0,2144.0
+120100a,Soya sauce,,120100,3.50,1.00,582.0,20.0,11.0,613.0
+120100b,Soya curd (tofu),,120100,3.75,1.00,543.0,19.0,10.0,572.0
+120100d,soybean ingredient into the soymilk,,120100,0.57,1.00,3574.0,123.0,65.0,3762.0
+120100e,Soy burger,,120100,0.57,1.00,3574.0,123.0,65.0,3762.0
+120810,Soya bean flour and meals,,120100,0.85,1.00,2397.0,83.0,44.0,2524.0
+150710,"Soya-bean oil crude, whether or not degummed",,120100,0.18,0.34,3900.0,135.0,71.0,4106.0
+150790,"Soya-bean oil and its fractions, refined but not chemically modified",,150710,0.98,1.00,3980.0,137.0,73.0,4190.0
+230400,"Soya-bean oil-cake&oth solid residues,whether or not ground or pellet",,120100,0.79,0.66,1690.0,58.0,31.0,1779.0
+120210,Ground-nuts in shell not roasted or otherwise cooked,Groundnuts in shell,120210,1.00,1.00,2469.0,150.0,163.0,2782.0
+120220,"Ground-nuts shelld,whether or not broken,not roastd or otherwise cookd",,120210,0.70,1.00,3526.0,214.0,234.0,3974.0
+150810,"Ground-nut oil, crude",,120220,0.43,0.80,6547.0,397.0,434.0,7378.0
+150890,Ground-nut oil and its fractions refined but not chemically modified,,150810,0.98,1.00,6681.0,405.0,442.0,7528.0
+230500,"Ground-nut oil-cake&oth solid residues,whether or not ground or pellet",,120220,0.54,0.20,1317.0,80.0,87.0,1484.0
+080119,Coconuts,Coconuts,080119,1.00,1.00,2669.0,2.0,16.0,2687.0
+120300,Copra,,120300a,0.60,1.00,2079.0,1.0,12.0,2092.0
+120300a,Coconut (husked),,080119,1.00,0.47,1248.0,1.0,7.0,1256.0
+151311,Coconut (copra) oil crude,,120300,0.36,0.76,4372.0,3.0,26.0,4401.0
+151319,Coconut (copra) oil&its fractions refined but not chemically modified,,151311,0.98,1.00,4461.0,3.0,27.0,4491.0
+230650,"Coconut/copra oil-cake&oth solid residues,whether/not ground/pellet",,120300,0.61,0.24,829.0,1.0,5.0,835.0
+530511,"Coconut (coir) fibre, raw",,530519,0.75,1.00,3245.0,2.0,19.0,3266.0
+530519,"Coconut (coir) fibre,processd nt spun;tow,noils&waste of coconut fib",,120300a,0.50,0.46,2434.0,2.0,15.0,2451.0
+120710,"Palm nuts and kernels, whether or not broken",,120710ab,0.06,0.16,2762.0,1.0,105.0,2868.0
+120710ab,Oil palm fruit,Oil palm,120710ab,1.00,1.00,1057.0,0.0,40.0,1097.0
+151110,"Palm oil, crude",,120710ab,0.19,0.84,4691.0,1.0,179.0,4871.0
+151190,Palm oil and its fractions refined but not chemically modified,,151110,0.98,1.00,4787.0,1.0,182.0,4970.0
+151321,"Palm kernel or babassu oil, crude",,120710,0.46,0.85,5098.0,1.0,194.0,5293.0
+151329,"Palm kernel/babassu oil their fract,refind but not chemically modifid",,151321,0.98,1.00,5202.0,1.0,198.0,5401.0
+230660,"Palm nut/kernel oil-cake&oth solid residues,whether/not ground/pellet",,120710,0.52,0.15,802.0,0.0,31.0,833.0
+070990aa,Olives,Olives,070990aa,1.00,1.00,2470.0,499.0,45.0,3014.0
+071120,"Olives,provisionally preservd but nt suitable f immediate consumption",,07990aa,1.00,1.00,2470.0,499.0,45.0,3014.0
+150910,"Olive oil, virgin",,071120,0.20,0.96,11826.0,2388.0,217.0,14431.0
+150990,Olive oil and its fractions refined but not chemically modified,,150910,0.98,1.00,12067.0,2437.0,221.0,14725.0
+151000,"Oils&thr fract nes obt from olives,ref'd/not,not chem mod,incl blends",,071120,0.02,0.04,5260.0,1062.0,96.0,6418.0
+120730,"Castor oil seeds, whether or not broken",Castor oil seed,120730,1.00,1.00,8423.0,1175.0,298.0,9896.0
+151530,"Castor oil&its fractions,whether/not refind,but not chemically modifid",,120730,0.40,1.00,21058.0,2938.0,744.0,24740.0
+120600,"Sunflower seeds, whether or not broken",Sunflower seed,120600,1.00,1.00,3017.0,148.0,201.0,3366.0
+151211,"Sunflower-seed or safflower oil, crude",,120600,0.41,0.81,5967.0,293.0,397.0,6657.0
+151219,Sunflower-sed/safflower oil&their fractions refind but nt chem modifid,,151211,0.98,1.00,6088.0,299.0,405.0,6792.0
+230630,"Sunflower sed oil-cake&oth solid residues,whether/not ground/pellet",,120600,0.47,0.19,1215.0,60.0,81.0,1356.0
+120500,"Rape or colza seeds, whether or not broken",Rapeseed,120500,1.00,1.00,1703.0,231.0,336.0,2270.0
+151410,"Rape, colza or mustard oil crude",,120500,0.38,0.71,3162.0,429.0,624.0,4215.0
+151490,"Rape,colza o mustard oil&their fract,refind but not chemically modifid",,151410,0.98,1.00,3226.0,438.0,636.0,4300.0
+230640,"Rape/colza sed oil-cake&oth solid residues,whether/not ground/pellet",,120500,0.60,0.29,837.0,114.0,165.0,1116.0
+120760,"Safflower seeds, whether or not broken",Safflower seed,120760,1.00,1.00,6000.0,938.0,283.0,7221.0
+120740,"Sesamum seeds, whether or not broken",Sesame seed,120740,1.00,1.00,8460.0,509.0,403.0,9372.0
+151550,"Sesame oil&its fractions whether/not refind,but not chemically modifid",,120740,0.43,1.00,19674.0,1183.0,936.0,21793.0
+120750,"Mustard seeds, whether or not broken",Mustard seed,120750,1.00,1.00,2463.0,1.0,345.0,2809.0
+120791,"Poppy seeds, whether or not broken",Poppy seed,120791,1.00,1.00,1723.0,250.0,464.0,2437.0
+12079ab,Melonseed,Melonseed,12079ab,1.00,1.00,5087.0,56.0,41.0,5184.0
+120720a,Seed cotton,Seed cotton,120720a,1.00,1.00,2282.0,1306.0,440.0,4028.0
+120720,"Cotton seeds, whether or not broken",,120720a,0.63,0.21,755.0,432.0,146.0,1333.0
+120720b,Cotton lint,,120720a,0.35,0.79,5163.0,2955.0,996.0,9114.0
+140420,Cotton linters,,120720,0.10,0.20,1474.0,844.0,284.0,2602.0
+151221,"Cotton-seed oil crude, whether or not gossypol has been removed",,120720,0.16,0.48,2242.0,1283.0,432.0,3957.0
+151229,Cotton-seed and its fractions refined but not chemically modified,,151221,1.00,1.00,2242.0,1283.0,432.0,3957.0
+230610,"Cotton sed oil-cake&oth solid residues,whether or not ground or pellet",,120720,0.51,0.33,487.0,279.0,94.0,860.0
+520100,"Cotton, not carded or combed",,120720b,1.00,1.00,5163.0,2955.0,996.0,9114.0
+520210,Cotton yarn waste (including thread waste),,520100,0.05,0.01,950.0,544.0,183.0,1677.0
+520291,Garnetted stock of cotton,,520100,0.05,0.01,1426.0,816.0,275.0,2517.0
+520299,"Cotton waste, nes",,520291,0.85,1.00,1677.0,960.0,323.0,2960.0
+520300,"Cotton, carded or combed",,520100,0.95,0.99,5359.0,3067.0,1034.0,9460.0
+520511,Cotton fabric and finished textiles,,520100,0.95,0.99,5384.0,3253.0,1344.0,9981.0
+120400,"Linseed, whether or not broken",Linseed,120400,1.00,1.00,4730.0,268.0,170.0,5168.0
+151511,"Linseed oil, crude",,120400,0.35,0.62,8445.0,478.0,303.0,9226.0
+151519,"Linseed oil and its fractions, refined but not chemically modified",,151511,0.98,1.00,8618.0,488.0,310.0,9416.0
+230620,"Linseed oil-cake&other solid residues,whether or not ground or pellet",,120400,0.63,0.38,2816.0,160.0,101.0,3077.0
+12079ag,Hempseed,Hempseed,12079ag,1.00,1.00,3257.0,12.0,417.0,3686.0
+12079ak,"Oilseeds, Nes","Oilseeds, Nes",12079ak,1.00,1.00,3230.0,131.0,61.0,3422.0
+120792,"Shea nuts (karite nuts), whether or not broken",,120792,1.00,1.00,3230.0,131.0,61.0,3422.0
+120799,"Oil seeds and oleaginous fruits, nes, whether or not broken",,120799,1.00,1.00,3230.0,131.0,61.0,3422.0
+120890,"Flours and meals of oil seeds or oleaginous fruits,except mustard,nes",,120799,0.80,1.00,4037.0,163.0,76.0,4276.0
+151560,"Jojoba oil&its fractions whether/not refind,but not chemically modifid",,151560,1.00,1.00,3230.0,131.0,61.0,3422.0
+070490,"Cabbages,kohlrabi,kale and sim edible brassicas nes,fresh or chilled",Cabbages and other brassicas,070490,1.00,1.00,181.0,26.0,73.0,280.0
+070910,"Globe artichokes, fresh or chilled",Artichokes,070910,1.00,1.00,478.0,242.0,98.0,818.0
+070920,"Asparagus, fresh or chilled",Asparagus,070920,1.00,1.00,1524.0,119.0,507.0,2150.0
+070511,Cabbage lettuce (head lettuce) fresh or chilled,Lettuce and chicory,070511,1.00,1.00,133.0,28.0,77.0,238.0
+070519,"Lettuce, fresh or chilled nes",,070511,1.00,1.00,133.0,28.0,77.0,238.0
+070970,"Spinach,N-Z spinach & orache spinach (garden spinach),fresh or chilled",Spinach,070970,1.00,1.00,118.0,14.0,160.0,292.0
+071030,"Spinach, N-Z spinach and orache spinach (garden spinach), frozen",,070970,0.35,1.00,338.0,39.0,457.0,834.0
+070200,"Tomatoes, fresh or chilled",Tomatoes,070200,1.00,1.00,108.0,63.0,43.0,214.0
+070200a,"Tomato juice, concentrated",,070200,0.20,1.00,539.0,316.0,213.0,1068.0
+070200b,Tomato paste,,070200,0.25,1.00,431.0,253.0,171.0,855.0
+070200c,Tomato ketchup,,070200,0.40,1.00,270.0,158.0,107.0,535.0
+070200d,Tomato puree,,070200,0.30,1.00,360.0,211.0,142.0,713.0
+070200e,Peeled tomatoes,,070200,0.80,1.00,135.0,79.0,53.0,267.0
+070200f,"Tomato, dried",,070200,0.05,1.00,2157.0,1265.0,853.0,4275.0
+200950,"Tomato juice unfermented&not spirited,whether or not sugared or sweet",,070200,0.80,1.00,135.0,79.0,53.0,267.0
+070410,"Cauliflowers and headed broccoli, fresh or chilled",Cauliflowers and broccoli,070410,1.00,1.00,189.0,21.0,75.0,285.0
+070420,"Brussels sprouts, fresh or chilled",,070420,1.00,1.00,189.0,21.0,75.0,285.0
+070990_b,"Pumpkins, squash and gourds","Pumpkins, squash and gourds",070990_b,1.00,1.00,228.0,24.0,84.0,336.0
+070700,"Cucumbers and gherkins, fresh or chilled",Cucumbers and gherkins,070700,1.00,1.00,206.0,42.0,105.0,353.0
+071140,"Cucumbers&gherkins provisionally presvd,but nt f immediate consumption",,070700,1.00,1.00,206.0,42.0,105.0,353.0
+070930,"Aubergines(egg-plants), fresh or chilled",Eggplants (aubergines),070930,1.00,1.00,234.0,33.0,95.0,362.0
+070960,"Peppers of the genus Capsicum or of the genus Pimenta,fresh or chilled","Chillies and peppers, green",070960,1.00,1.00,240.0,42.0,97.0,379.0
+070310,"Onions and shallots, fresh or chilled","Onions (inc. shallots), green",070310,1.00,1.00,176.0,44.0,51.0,271.0
+071110,"Onions,provisionally preservd but nt suitable f immediate consumption",,071220,1.00,1.00,192.0,88.0,65.0,345.0
+071220,Onions dried but not further prepared,"Onions, dry",071220,1.00,1.00,192.0,88.0,65.0,345.0
+070320,"Garlic, fresh or chilled",Garlic,070320,1.00,1.00,337.0,81.0,170.0,588.0
+070320a,Garlic powder,,070320,0.26,1.00,1297.0,313.0,655.0,2265.0
+070820,"Beans, shelled or unshelled, fresh or chilled","Beans, green",070820,1.00,1.00,320.0,54.0,188.0,562.0
+071022,"Beans, frozen",,070820,0.70,1.00,456.0,76.0,269.0,801.0
+070810,"Peas, shelled or unshelled, fresh or chilled","Peas, green",070810,1.00,1.00,382.0,63.0,150.0,595.0
+071021,"Peas, frozen",,070810,0.70,1.00,546.0,89.0,215.0,850.0
+070820_b,String beans,String beans,070820_b,1.00,1.00,301.0,104.0,143.0,548.0
+070610,"Carrots and turnips, fresh or chilled",Carrots and turnips,070610,1.00,1.00,106.0,28.0,61.0,195.0
+070940,"Celery, other than celeriac, fresh or chilled",,070940,1.00,1.00,106.0,28.0,61.0,195.0
+070990cb,Okra,Okra,070990cb,1.00,1.00,474.0,36.0,65.0,575.0
+070990ca,"Maize, green","Maize, green",070990ca,1.00,1.00,455.0,157.0,88.0,700.0
+071040,"Sweet corn, frozen",,070990ca,1.00,1.00,455.0,157.0,88.0,700.0
+121210,Carobs,Carobs,121210,1.00,1.00,4557.0,334.0,703.0,5594.0
+070990,"Vegetables, fresh or chilled nes",Vegetables fresh nes,070990,1.00,1.00,205.0,33.0,101.0,339.0
+071080,"Vegetables, frozen nes",,070990,0.70,1.00,292.0,47.0,144.0,483.0
+071090,"Mixtures of vegetables, frozen",,070990,1.00,1.00,205.0,33.0,101.0,339.0
+071190,Vegetables nes&mixtures provis presvd but nt f immediate consumptn,,070990,1.00,1.00,205.0,33.0,101.0,339.0
+071290,"Vegetables and mixtures dried, but not further prepared nes",,070990,0.35,1.00,584.0,94.0,288.0,966.0
+121299,Vegetable products nes used primarily for human consumption,,070990,1.00,1.00,205.0,33.0,101.0,339.0
+080300,"Bananas including plantains, fresh or dried",,080300,1.00,1.00,660.0,97.0,33.0,790.0
+080300aa,Bananas,Bananas,080300aa,1.00,1.00,660.0,97.0,33.0,790.0
+080300_b,Plantains,Plantains,080300_b,1.00,1.00,1570.0,27.0,6.0,1603.0
+080510,"Oranges, fresh or dried",Oranges,080510,1.00,1.00,401.0,110.0,49.0,560.0
+200911,"Orange juice,unfermentd&not spiritd,whether/not sugard/sweet,frozen",,080510,0.55,1.00,729.0,199.0,90.0,1018.0
+200919,"Orange juice nes,unfermentd&not spiritd,whether or not sugard or sweet",,080510,0.55,1.00,729.0,199.0,90.0,1018.0
+080520,"Mandarins(tang&sats)clementines&wilkgs &sim citrus hybrids,fresh/drid","Tangerines, mandarins, clem.",080520,1.00,1.00,479.0,118.0,152.0,749.0
+080530,"Lemons and limes, fresh or dried",Lemons and limes,080530,1.00,1.00,432.0,152.0,58.0,642.0
+080540,"Grapefruit, fresh or dried",Grapefruit (inc. pomelos),080540,1.00,1.00,367.0,85.0,54.0,506.0
+200920,"Grapefruit juice,unfermentd&not spiritd,whether or not sugard or sweet",,080540,0.75,1.00,490.0,114.0,71.0,675.0
+080590,"Citrus fruits, fresh or dried, nes","Citrus fruit, nes",080590,1.00,1.00,1145.0,62.0,35.0,1242.0
+081400,"Peel of citrus fruit/melons (watermelons) fresh,frz,drid/prov presvd",,080590,0.25,0.30,1370.0,74.0,42.0,1486.0
+200930,"Citrus fruit juice nes exc mx unferment unspiritd,wthr/nt sug/sweet",,080590,0.55,0.70,1459.0,79.0,45.0,1583.0
+200980,"Fruit&veg juice nes (exc mx) unferment unspiritd,whether/not sug/sweet",,200930,1.00,1.00,1459.0,79.0,45.0,1583.0
+200990,Mixtures of juices unfermentd&not spiritd whether o not sugard o sweet,,200930,1.00,1.00,1459.0,79.0,45.0,1583.0
+080810,"Apples, fresh",Apples,080810,1.00,1.00,561.0,133.0,127.0,821.0
+081330,"Apples, dried",,080810,0.12,1.00,4678.0,1111.0,1058.0,6847.0
+200970,Apple juice unfermented&not spiritd whether or not sugard or sweetend,,080810,0.72,1.00,780.0,185.0,176.0,1141.0
+080820,"Pears and quinces, fresh",Pears,080820,1.00,1.00,645.0,94.0,183.0,922.0
+080910,"Apricots, fresh",Apricots,080910,1.00,1.00,694.0,502.0,92.0,1288.0
+081310,"Apricots, dried",,080910,0.29,1.00,2392.0,1730.0,316.0,4438.0
+080920_b,Sour cherries,Sour cherries,080920_b,1.00,1.00,1098.0,213.0,99.0,1410.0
+080920,"Cherries, fresh",Cherries,080920,1.00,1.00,961.0,531.0,112.0,1604.0
+081210,Cherries provisionally preservd but unsuitable f immediate consumption,,080920,1.00,1.00,961.0,531.0,112.0,1604.0
+080930,"Peaches, including nectarines, fresh",Peaches and nectarines,080930,1.00,1.00,583.0,188.0,139.0,910.0
+080940,"Plums and sloes, fresh",Plums and sloes,080940,1.00,1.00,1570.0,188.0,422.0,2180.0
+081320,"Prunes, dried",,080940,0.35,1.00,4487.0,537.0,1204.0,6228.0
+081090ac,"Stone fruit, nes","Stone fruit, nes",081090ac,1.00,1.00,868.0,1049.0,136.0,2053.0
+081350,Mixtures of edible nuts or dried fruits of this chapter,,081090ac,1.00,1.00,868.0,1049.0,136.0,2053.0
+121230,"Apricot,peach/plum stones&kernels nes,usd primly f human consumption",,081090ac,1.00,1.00,868.0,1049.0,136.0,2053.0
+081010,"Strawberries, fresh",Strawberries,081010,1.00,1.00,201.0,109.0,37.0,347.0
+081110,"Strawberries,uncookd o steamd o boild in water,sweetend o not,frozen",,081010,1.00,1.00,201.0,109.0,37.0,347.0
+081220,Strawberries provis preservd but unsuitable f immediate consumption,,081010,1.00,1.00,201.0,109.0,37.0,347.0
+081020,"Raspberries, blackberries, mulberries and loganberries, fresh",Raspberries,081020,1.00,1.00,293.0,53.0,67.0,413.0
+081120,"Raspberries,mulberries,etc uncook,steam/boil in water sweetend/nt,froz",,081020,1.00,1.00,293.0,53.0,67.0,413.0
+081030_b,Gooseberries,Gooseberries,081030_b,1.00,1.00,487.0,8.0,31.0,526.0
+081030,"Black, white or red currants and gooseberries, fresh",,081030_a,1.00,1.00,457.0,19.0,23.0,499.0
+081030_a,Currants,Currants,081030_a,1.00,1.00,457.0,19.0,23.0,499.0
+081040_c,Blueberries,Blueberries,081040_c,1.00,1.00,341.0,334.0,170.0,845.0
+081040,"Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Cranberries,081040,1.00,1.00,91.0,108.0,77.0,276.0
+081040_b,Berries Nes,Berries Nes,081040_b,1.00,1.00,200.0,175.0,74.0,449.0
+080610,"Grapes, fresh",Grapes,080610,1.00,1.00,425.0,97.0,87.0,609.0
+080620,"Grapes, dried",,080610,0.25,1.00,1700.0,386.0,347.0,2433.0
+200960,"Grape juice (incl grape must) unferment&unspiritd,wthr/nt sug/sweet",,080610,0.75,1.00,567.0,129.0,116.0,812.0
+220410,"Grape wines, sparkling",,080610,0.70,1.00,607.0,138.0,124.0,869.0
+220421,"Grape wines nes,incl fort&grape must,unfermntd by add alc in ctnr</=2l",,080610,0.86,1.00,494.0,112.0,101.0,707.0
+220429,"Grape wines nes,incl fort&grape must,unfermntd by add alc,in ctnr > 2l",,080610,0.86,1.00,494.0,112.0,101.0,707.0
+220430,"Grape must nes, unfermented, other than that of heading No 20.09",,080610,0.86,1.00,494.0,112.0,101.0,707.0
+220510,Vermouth&oth grape wines flav w plants o arom subst in ctnr </= 2 l,,220410,1.00,1.00,607.0,138.0,124.0,869.0
+220590,Vermouth&oth grape wines flav with plants or arom subst in ctnr > 2 l,,220410,1.00,1.00,607.0,138.0,124.0,869.0
+220600,"Fermented beverages nes (for example, cider, perry, mead, etc)",,220410,1.00,1.00,607.0,138.0,124.0,869.0
+220820,Spirits obtained by distilling grape wine or grape marc,,220410,1.00,1.00,607.0,138.0,124.0,869.0
+080711,Watermelons,Watermelons,080711,1.00,1.00,150.0,25.0,63.0,238.0
+080719,Other melons (inc.cantaloupes),Other melons (inc.cantaloupes),080719,1.00,1.00,125.0,29.0,67.0,221.0
+080420,"Figs, fresh or dried",Figs,080420,1.00,1.00,1504.0,1544.0,227.0,3275.0
+080450,"Guavas, mangoes and mangosteens, fresh or dried","Mangoes, mangosteens, guavas",080450,1.00,1.00,1314.0,362.0,124.0,1800.0
+080440,"Avocados, fresh or dried",Avocados,080440,1.00,1.00,849.0,237.0,87.0,1173.0
+080430,"Pineapples, fresh or dried",Pineapples,080430,1.00,1.00,215.0,9.0,31.0,255.0
+200940,"Pineapple juice,unfermented&not spiritd,whether or not sugard or sweet",,080430,0.20,1.00,1075.0,45.0,153.0,1273.0
+080410,"Dates, fresh or dried",Dates,080410,1.00,1.00,930.0,1250.0,98.0,2278.0
+081090ad,Cashewapple,Cashewapple,081090ad,1.00,1.00,3638.0,34.0,121.0,3793.0
+081050,Kiwi fruit,Kiwi fruit,081050,1.00,1.00,307.0,168.0,38.0,513.0
+080720,"Papaws (papayas), fresh",Papayas,080720,1.00,1.00,399.0,40.0,21.0,460.0
+080450_b,"Fruit, tropical fresh nes","Fruit, tropical fresh nes",080450_b,1.00,1.00,1455.0,200.0,172.0,1827.0
+081090,"Fruits, fresh nes",Fruit Fresh Nes,081090,1.00,1.00,1199.0,201.0,112.0,1512.0
+081340,"Fruits, dried nes",,081090,0.25,1.00,4794.0,806.0,448.0,6048.0
+090111,"Coffee, not roasted, not decaffeinated","Coffee, green",090111,1.00,1.00,15249.0,116.0,532.0,15897.0
+090112,"Coffee, not roasted, decaffeinated",,090111,1.00,1.00,15249.0,116.0,532.0,15897.0
+090121,"Coffee, roasted, not decaffeinated",,090111,0.84,1.00,18153.0,139.0,633.0,18925.0
+090122,"Coffee, roasted, decaffeinated",,090112,0.84,1.00,18153.0,139.0,633.0,18925.0
+180100,"Cocoa beans, whole or broken, raw or roasted",Cocoa beans,180100,1.00,1.00,19745.0,4.0,179.0,19928.0
+180200,"Cocoa shells, husks, skins and other cocoa waste",,180100,0.20,0.03,2662.0,1.0,24.0,2687.0
+180310,Cocoa paste not defatted,,180100,0.80,0.97,24015.0,5.0,218.0,24238.0
+180320,Cocoa paste wholly or partly defatted,,180310,1.00,1.00,24015.0,5.0,218.0,24238.0
+180400,"Cocoa butter, fat and oil",,180310,0.47,0.66,33626.0,7.0,305.0,33938.0
+180500,"Cocoa powder, not containing added sugar or other sweetening matter",,180310,0.53,0.34,15492.0,3.0,141.0,15636.0
+180500a,Chocolate,,180500,-,-,16805.0,198.0,193.0,17196.0
+180610,"Cocoa powder, containing added sugar or other sweetening matter",,180500,1.00,1.00,15492.0,3.0,141.0,15636.0
+0902,Tea,Tea,0902,1.00,1.00,7232.0,898.0,726.0,8856.0
+090210,Green tea (not fermented) in packages not exceeding 3 kg,,0902,1.00,1.00,7232.0,898.0,726.0,8856.0
+090220,Green tea (not fermented) in packages exceeding 3 kg,,0902,1.00,1.00,7232.0,898.0,726.0,8856.0
+090230,Black tea (fermented)&partly fermentd tea in packages not exceedg 3 kg,,0902,1.00,1.00,7232.0,898.0,726.0,8856.0
+090240,Black tea (fermented) & partly fermented tea in packages exceedg 3 kg,,0902,1.00,1.00,7232.0,898.0,726.0,8856.0
+121010,"Hop cones, not ground, powdered or pelleted",Hops,121010,1.00,1.00,2382.0,269.0,1414.0,4065.0
+121020,"Hop cones, ground, powdered or pelleted and lupulin",,121010,1.00,1.00,2382.0,269.0,1414.0,4065.0
+130213,Hop extract,,121010,0.25,1.00,9528.0,1077.0,5654.0,16259.0
+090411,"Pepper of the genus Piper,ex cubeb pepper,neither crushd nor ground",Pepper (Piper spp.),090411,1.00,1.00,6540.0,467.0,604.0,7611.0
+090412,"Pepper of the genus Piper, except cubeb pepper, crushed or ground",,090411,1.00,1.00,6540.0,467.0,604.0,7611.0
+090420,"Fruits of the genus Capsicum or Pimenta, dried, crushed or ground","Chillies and peppers, dry",090420,1.00,1.00,5869.0,1125.0,371.0,7365.0
+090500,Vanilla beans,Vanilla,090500,1.00,1.00,86392.0,39048.0,1065.0,126505.0
+090610,Cinnamon and cinnamon-tree flowers neither crushed nor ground,Cinnamon (canella),090610,1.00,1.00,14853.0,41.0,632.0,15526.0
+090620,Cinnamon and cinnamon-tree flowers crushed or ground,,090610,1.00,1.00,14853.0,41.0,632.0,15526.0
+090700,"Cloves (whole fruit, cloves and stems)",Cloves,090700,1.00,1.00,59834.0,30.0,1341.0,61205.0
+0908,"Nutmeg, Mace, Cardamons","Nutmeg, mace and cardamoms",0908,1.00,1.00,30683.0,2623.0,1014.0,34320.0
+090910,Anise or badian seeds,"Anise, badian, fennel, corian.",090910,1.00,1.00,5369.0,1865.0,1046.0,8280.0
+090920,Coriander seeds,,090910,1.00,1.00,5369.0,1865.0,1046.0,8280.0
+091010,Ginger,Ginger,091010,1.00,1.00,1525.0,40.0,92.0,1657.0
+091030,Turmeric (curcuma),,091030,1.00,1.00,1525.0,40.0,92.0,1657.0
+091050,Curry,,091050,1.00,1.00,1525.0,40.0,92.0,1657.0
+091091,Mixtures of two/more of the prods of different headgs to this chapter,,091091,1.00,1.00,2735.0,242.0,390.0,3367.0
+091099,Spices nes,"Spices, nes",091099,1.00,1.00,2735.0,242.0,390.0,3367.0
+070990_d,Peppermint,Peppermint,070990_d,1.00,1.00,206.0,63.0,19.0,288.0
+530110,"Flax fibre, raw or retted",Flax fibre and tow,530110,1.00,1.00,2637.0,443.0,401.0,3481.0
+530121,"Flax fibre, broken or scutched",,530110,1.00,1.00,2637.0,443.0,401.0,3481.0
+530129,"Flax fibre, otherwise processed but not spun",,530110,0.90,0.98,2866.0,481.0,436.0,3783.0
+530130,Flax tow and waste (including yarn waste and garnetted stock),,530110,0.10,0.02,581.0,98.0,88.0,767.0
+530210,"True hemp fibre (Cannabis sativa l), raw or retted",Hemp Tow Waste,530210,1.00,1.00,1824.0,300.0,624.0,2748.0
+530290,True hemp fibre otherwise processd but not spun;tow&waste of true hemp,,530210,0.90,1.00,2026.0,300.0,693.0,3019.0
+530310,"Jute and other textile bast fibres, raw or retted",Jute,530310,1.00,1.00,2356.0,33.0,217.0,2606.0
+530390,"Jute and other tex bast fib,not spun,nes;tow and waste of these fibres",,530310,0.90,1.00,2618.0,37.0,241.0,2896.0
+5303ab,Other Bastfibres,Other Bastfibres,5303ab,1.00,1.00,3492.0,200.0,500.0,4192.0
+530590b,"Ramie & other vegetable textile fibers, raw or processed but not spun; tow, noils & waste of these fibres",Ramie,530590b,1.00,1.00,3712.0,201.0,595.0,4508.0
+5304_b,Sisal,Sisal,5304_b,1.00,1.00,6112.0,708.0,222.0,7042.0
+530410,"Sisal and other textile fibres of the genus Agave, raw",,530410,1.00,1.00,6112.0,708.0,222.0,7042.0
+530490,Sisal textile fibres processed but not spun;tow&waste of sisal fibres,,530410,0.90,1.00,6791.0,787.0,246.0,7824.0
+5304c,Agave Fibres Nes,Agave Fibres Nes,5304c,1.00,1.00,6434.0,9.0,106.0,6549.0
+530521,"Abaca fibre, raw",Manila Fibre (Abaca),530521,1.00,1.00,19376.0,246.0,766.0,20388.0
+530529,"Abaca fibre,processed but not spun;tow,noils and waste of abaca fibres",,530521,0.90,1.00,21529.0,273.0,851.0,22653.0
+530590a,Fibre Crops Nes,Fibre Crops Nes,530590a,1.00,1.00,5796.0,142.0,270.0,6208.0
+530591,"Vegetable textile fibres nes, raw",,530591,1.00,1.00,5796.0,142.0,270.0,6208.0
+530599,"Vegetable tex fib nes,processd nt spun;tow,noils&waste of these fibres",,530591,0.90,1.00,6440.0,157.0,300.0,6897.0
+240110,"Tobacco, unmanufactured, not stemmed or stripped","Tobacco, unmanufactured",240110,1.00,1.00,2021.0,205.0,700.0,2926.0
+240120,"Tobacco, unmanufactured, partly or wholly stemmed or stripped",,240110,1.00,1.00,2021.0,205.0,700.0,2926.0
+240130,Tobacco refuse,,240110,1.00,1.00,2021.0,205.0,700.0,2926.0

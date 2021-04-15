@@ -1,0 +1,320 @@
+HS (PC-TAS) code,Product discription (HS),Product description (SITC),Rootproduct (HS),Product fraction,Value fraction,Country,World Average,,,
+,,,,,,Production system >>,Grazing,Mixed,Industrial,Weighted average
+010111,"Horses, live pure-bred breeding",Horses,010111,1.00,1.00,Green,40317,34717,33337,37179
+,,,,,,Blue,1470,3534,2183,2462
+,,,,,,Grey,675,1179,1469,971
+010119,"Horses, live except pure-bred breeding",,010111,1.00,1.00,Green,40317,34717,33337,37179
+,,,,,,Blue,1470,3534,2183,2462
+,,,,,,Grey,675,1179,1469,971
+010120,"Asses, mules and hinnies, live","Asses, mules, hinnies",010111,1.00,1.00,Green,40317,34717,33337,37179
+,,,,,,Blue,1470,3534,2183,2462
+,,,,,,Grey,675,1179,1469,971
+010210,"Bovine, live pure-bred breeding","Bov.animals,pure,breedng",010210,1.00,1.00,Green,9197,7348,4174,7002
+,,,,,,Blue,192,241,311,256
+,,,,,,Grey,106,199,336,219
+010290,"Bovine, live except pure-bred breeding",Other bovine animals,010210,1.00,1.00,Green,9197,7348,4174,7002
+,,,,,,Blue,192,241,311,256
+,,,,,,Grey,106,199,336,219
+010310,"Swine, live pure-bred breeding","Swine,pure,for breeding",010310,1.00,1.00,Green,5037,3353,2589,3155
+,,,,,,Blue,264,261,293,276
+,,,,,,Grey,416,374,439,400
+010391,"Swine, live except pure-bred breeding weighing less than 50 kg","Other swine, live",010310,1.00,1.00,Green,5037,3353,2589,3155
+,,,,,,Blue,264,261,293,276
+,,,,,,Grey,416,374,439,400
+010392,"Swine, live except pure-bred breeding weighing 50 kg or more",,010310,1.00,1.00,Green,5037,3353,2589,3155
+,,,,,,Blue,264,261,293,276
+,,,,,,Grey,416,374,439,400
+010410,"Sheep, live","Sheep, live",010410,1.00,1.00,Green,7126,3490,2026,4278
+,,,,,,Blue,168,196,331,207
+,,,,,,Grey,9,30,95,33
+010420,"Goats, live","Goats, live",010420,1.00,1.00,Green,5260,2685,1349,2900
+,,,,,,Blue,152,169,219,175
+,,,,,,Grey,0,2,10,3
+010511,"Fowls, live domestic weighing not more than 185 g","Poultry, live, to 185g",010599,10.00,1.00,Green,618,317,182,277
+,,,,,,Blue,56,26,15,23
+,,,,,,Grey,56,45,25,36
+010519,"Poultry, live except domestic fowls, weighing not more than 185 g",,010599,1.00,1.00,Green,6177,3171,1823,2765
+,,,,,,Blue,563,261,154,234
+,,,,,,Grey,560,448,254,364
+010599,"Poultry, live except domestic fowls, weighing more than 185 g","Poultry, live,over 185g",010599,1.00,1.00,Green,6177,3171,1823,2765
+,,,,,,Blue,563,261,154,234
+,,,,,,Grey,560,448,254,364
+020110,"Bovine carcasses and half carcasses, fresh or chilled","Bovine meat,fh,ch,w.bone",010210,0.57,0.83,Green,14996,10510,6283,10234
+,,,,,,Blue,328,359,483,389
+,,,,,,Grey,172,285,505,320
+020120,"Bovine cuts bone in, fresh or chilled",,020110,1.00,1.00,Green,14996,10510,6283,10234
+,,,,,,Blue,328,359,483,389
+,,,,,,Grey,172,285,505,320
+020130,"Bovine cuts boneless, fresh or chilled","Bovine meat,fh,ch,bnless",020120,0.71,1.00,Green,21121,14803,8849,14414
+,,,,,,Blue,465,508,683,550
+,,,,,,Grey,243,401,712,451
+020210,"Bovine carcasses and half carcasses, frozen","Bovine meat,frozn,w.bone",020110,1.00,1.00,Green,14996,10510,6283,10234
+,,,,,,Blue,328,359,483,389
+,,,,,,Grey,172,285,505,320
+020220,"Bovine cuts bone in, frozen",,020120,1.00,1.00,Green,14996,10510,6283,10234
+,,,,,,Blue,328,359,483,389
+,,,,,,Grey,172,285,505,320
+020230,"Bovine cuts boneless, frozen","Bovine meat,frz,boneless",020130,1.00,1.00,Green,21121,14803,8849,14414
+,,,,,,Blue,465,508,683,550
+,,,,,,Grey,243,401,712,451
+020311,"Swine carcasses and half carcasses, fresh or chilled","Meat of swine,frsh,chlld",010310,0.76,0.86,Green,5592,3803,2956,3582
+,,,,,,Blue,305,308,346,325
+,,,,,,Grey,462,425,502,454
+020312,"Hams, shoulders and cuts thereof, of swine bone in, fresh or chilled",,020311,0.77,1.00,Green,7263,4939,3839,4652
+,,,,,,Blue,409,413,462,435
+,,,,,,Grey,599,551,652,590
+020319,"Swine cuts, fresh or chilled, nes",,020311,0.73,1.00,Green,7660,5210,4050,4907
+,,,,,,Blue,431,435,487,459
+,,,,,,Grey,632,582,687,622
+020321,"Swine carcasses and half carcasses, frozen","Meat of swine, frozen",020311,1.00,1.00,Green,5592,3803,2956,3582
+,,,,,,Blue,305,308,346,325
+,,,,,,Grey,462,425,502,454
+020322,"Hams, shoulders and cuts thereof, of swine, bone in, frozen",,020312,1.00,1.00,Green,7263,4939,3839,4652
+,,,,,,Blue,409,413,462,435
+,,,,,,Grey,599,551,652,590
+020329,"Swine cuts, frozen nes",,020319,1.00,1.00,Green,7660,5210,4050,4907
+,,,,,,Blue,431,435,487,459
+,,,,,,Grey,632,582,687,622
+020410,"Lamb carcasses and half carcasses, fresh or chilled",,010410,0.76,0.89,Green,8342,4086,2372,5008
+,,,,,,Blue,208,241,399,254
+,,,,,,Grey,11,35,111,39
+020421,"Sheep carcasses and half carcasses, fresh or chilled","Meat of sheep,frsh,chlld",010410,0.50,0.89,Green,12696,6227,3685,7851
+,,,,,,Blue,317,367,620,398
+,,,,,,Grey,16,54,173,61
+020422,"Sheep cuts, bone in, fresh or chilled",,020421,1.00,1.00,Green,12696,6227,3685,7851
+,,,,,,Blue,327,377,630,408
+,,,,,,Grey,16,54,173,61
+020423,"Sheep cuts, boneless, fresh or chilled",,020422,0.80,1.00,Green,15870,7784,4607,9813
+,,,,,,Blue,421,484,800,522
+,,,,,,Grey,20,67,216,76
+020430,"Lamb carcasses and half carcasses, frozen",,020410,1.00,1.00,Green,8342,4086,2372,5008
+,,,,,,Blue,208,241,399,254
+,,,,,,Grey,11,35,111,39
+020441,"Sheep carcasses and half carcasses, frozen","Meat of sheep, frozen",020421,1.00,1.00,Green,12696,6227,3685,7851
+,,,,,,Blue,317,367,620,398
+,,,,,,Grey,16,54,173,61
+020442,"Sheep cuts, bone in, frozen",,020422,1.00,1.00,Green,12696,6227,3685,7851
+,,,,,,Blue,327,377,630,408
+,,,,,,Grey,16,54,173,61
+020443,"Sheep cuts, boneless, frozen",,020423,1.00,1.00,Green,15870,7784,4607,9813
+,,,,,,Blue,421,484,800,522
+,,,,,,Grey,20,67,216,76
+020450,"Goat meat, fresh, chilled or frozen",Meat of goats,010420,0.50,0.87,Green,9277,4691,2431,5185
+,,,,,,Blue,285,313,413,330
+,,,,,,Grey,0,4,18,6
+020500,"Horse, ass, mule or hinny meat, fresh, chilled or frozen","Meat of horses,mules,etc",010111,0.68,0.87,Green,51364,44230,42472,47367
+,,,,,,Blue,1911,4541,2819,3175
+,,,,,,Grey,860,1503,1871,1237
+020610,"Bovine edible offal, fresh or chilled","Edible offal,bov.frsh,ch",010210,0.07,0.10,Green,13703,10947,6219,10433
+,,,,,,Blue,301,373,479,396
+,,,,,,Grey,158,297,500,326
+020621,"Bovine tongues, edible offal, frozen",,020610,0.10,0.24,Green,32510,25973,14754,24751
+,,,,,,Blue,715,886,1136,940
+,,,,,,Grey,374,704,1187,774
+020622,"Bovine livers, edible offal, frozen",,020610,0.60,0.42,Green,9576,7650,4346,7291
+,,,,,,Blue,211,261,335,277
+,,,,,,Grey,110,207,350,228
+020629,"Bovine edible offal, frozen nes","Edible offal,bov.,frozen",020610,0.30,0.34,Green,15530,12407,7048,11824
+,,,,,,Blue,342,423,542,449
+,,,,,,Grey,179,336,567,370
+020630,"Swine edible offal, fresh or chilled","Edible offal,swine,fh,ch",010310,0.04,0.01,Green,1645,1095,845,1030
+,,,,,,Blue,90,89,99,93
+,,,,,,Grey,136,122,143,131
+020641,"Swine livers, edible offal, frozen",,020630,0.60,0.33,Green,898,598,461,562
+,,,,,,Blue,49,48,54,51
+,,,,,,Grey,74,67,78,71
+020649,"Swine edible offal, frozen nes","Edible offal,swine,frzen",020630,1.00,1.00,Green,1645,1095,845,1030
+,,,,,,Blue,90,89,99,93
+,,,,,,Grey,136,122,143,131
+020680,"Sheep, goats, asses, mules or hinnies edible offal, fresh or chilled","Ed.off.sheep,horse,fh,ch",010410,0.08,0.06,Green,4960,2430,1410,2978
+,,,,,,Blue,124,143,237,151
+,,,,,,Grey,6,21,66,23
+020690,"Sheep, goats, asses, mules or hinnies edible offal, frozen","Ed.off.sheep,horse,frozn",020680,1.00,1.00,Green,4960,2430,1410,2978
+,,,,,,Blue,124,143,237,151
+,,,,,,Grey,6,21,66,23
+020900,"Pig fat lean meat free&poultry fat unrenderd,frsh,chilld,frozn or curd","Pig,poultry fat unrendrd",010310,0.78,1.00,Green,7919,4065,2337,3545
+,,,,,,Blue,734,348,210,313
+,,,,,,Grey,718,574,325,467
+021011,"Hams, shoulders and cuts thereof, of swine bone in, cured","Hams,shoulders with bone",020312,0.98,1.00,Green,7411,5040,3918,4747
+,,,,,,Blue,422,426,477,449
+,,,,,,Grey,612,563,665,602
+021012,"Bellies, streaky and cuts thereof, swine cured",Bellies (streaky),020319,0.98,1.00,Green,7817,5316,4133,5007
+,,,,,,Blue,445,449,503,474
+,,,,,,Grey,645,593,701,635
+021019,"Swine meat cured, nes","Oth.pigmeat,dry,salt,smk",020311,0.70,1.00,Green,7989,5433,4223,5117
+,,,,,,Blue,443,447,501,472
+,,,,,,Grey,659,606,717,649
+021020,Bovine meat cured,"Bov.meat,dried,smkd,salt",020110,0.46,1.00,Green,32600,22848,13658,22247
+,,,,,,Blue,724,791,1061,856
+,,,,,,Grey,375,620,1099,696
+040110,Milk not concentrated and unsweetened not exceeding 1% fat,"Milk,fat cont.1% or less",FAO882,0.93,1.00,Green,1087,790,1027,863
+,,,,,,Blue,56,90,98,86
+,,,,,,Grey,49,76,82,72
+040120,Milk not concentrated & unsweetened exceeding 1% not exceeding 6% fat,"Milk,cream fat cont.1-6%",FAO882,0.90,1.00,Green,1123,816,1061,891
+,,,,,,Blue,58,93,101,88
+,,,,,,Grey,50,79,85,75
+040130,Milk and cream not concentrated and unsweetened exceeding 6% fat,"Cream,fat content 6%+",FAO882,0.50,1.00,Green,2021,1469,1911,1605
+,,,,,,Blue,104,168,182,159
+,,,,,,Grey,91,142,153,134
+040210,Milk powder not exceeding 1.5% fat,"Milk,solid, to 1.5% fat",FAO882,0.20,1.00,Green,5052,3671,4777,4011
+,,,,,,Blue,261,421,455,398
+,,,,,,Grey,227,354,382,336
+040221,Milk and cream powder unsweetened exceeding 1.5% fat,"Milk,crm solid 1.5%+ fat",FAO882,0.20,1.00,Green,5052,3671,4777,4011
+,,,,,,Blue,261,421,455,398
+,,,,,,Grey,227,354,382,336
+040229,Milk and cream powder sweetened exceeding 1.5% fat,,040221,1.00,1.00,Green,5052,3671,4777,4011
+,,,,,,Blue,271,431,465,408
+,,,,,,Grey,227,354,382,336
+040291,"Milk and cream unsweetened, nes","Milk,cream unsweetened",FAO882,0.50,0.83,Green,1680,1221,1589,1334
+,,,,,,Blue,87,140,151,132
+,,,,,,Grey,75,118,127,112
+040299,Milk and cream nes sweetened,"Milk,cream, sweetened",040130,1.00,1.00,Green,2021,1469,1911,1605
+,,,,,,Blue,109,173,187,164
+,,,,,,Grey,91,142,153,134
+040310,"Yogurt concentratd o not,sweetend o not,flavourd o contg fruit o cocoa",Yogurt,FAO882,0.80,1.00,Green,1263,918,1194,1003
+,,,,,,Blue,65,105,114,99
+,,,,,,Grey,57,89,96,84
+040390,"Buttermilk,curdled milk & cream,kephir & ferm or acid milk & cream nes",Buttermilk,FAO882,0.10,0.17,Green,1703,1237,1610,1352
+,,,,,,Blue,88,142,153,134
+,,,,,,Grey,76,119,129,113
+040410,Whey whether or not concentrated or sweetened,Whey,FAO882,0.73,0.50,Green,689,501,651,547
+,,,,,,Blue,36,57,62,54
+,,,,,,Grey,31,48,52,46
+040490,Products consisting of natural milk constituents sweetened or not nes,Milk products nes,FAO882,0.80,1.00,Green,1263,918,1194,1003
+,,,,,,Blue,65,105,114,99
+,,,,,,Grey,57,89,96,84
+040510,Butter,butter,FAO882,0.05,0.28,Green,5913,4297,5591,4695
+,,,,,,Blue,305,492,532,465
+,,,,,,Grey,265,415,448,393
+040610,"Cheese, fresh (including whey cheese) unfermented, and curd","Fresh cheese,unfermented",FAO882,0.15,0.50,Green,3384,2459,3199,2687
+,,,,,,Blue,175,282,305,266
+,,,,,,Grey,152,237,256,225
+040620,"Cheese, grated or powdered, of all kinds","Cheese, powdered, grated",040610,0.63,1.00,Green,5371,3903,5078,4264
+,,,,,,Blue,293,463,500,439
+,,,,,,Grey,241,377,406,357
+040630,"Cheese processed, not grated or powdered","Processed cheese, whole",040610,0.63,1.00,Green,5371,3903,5078,4264
+,,,,,,Blue,293,463,500,439
+,,,,,,Grey,241,377,406,357
+040640,"Cheese, blue-veined",Blue-veined cheese,040610,0.63,1.00,Green,5371,3903,5078,4264
+,,,,,,Blue,293,463,500,439
+,,,,,,Grey,241,377,406,357
+040690,Cheese nes,"Other cheese, curd",040610,0.63,1.00,Green,5371,3903,5078,4264
+,,,,,,Blue,293,463,500,439
+,,,,,,Grey,241,377,406,357
+040700,"Eggs, bird, in shell, fresh, preserved or cooked","Birds' eggs, in shell",040700,1.00,1.00,Green,6781,3006,2298,2592
+,,,,,,Blue,418,312,205,244
+,,,,,,Grey,446,545,369,429
+040811,Egg yolks dried,"Egg,unshelld;yolks,dried",040819,0.50,1.00,Green,13562,6012,4595,5184
+,,,,,,Blue,855,644,431,508
+,,,,,,Grey,892,1090,737,857
+040819,Egg yolks nes,"Egg,unshelld;ylk,not dry",040700,1.00,1.00,Green,6781,3006,2298,2592
+,,,,,,Blue,423,317,210,249
+,,,,,,Grey,446,545,369,429
+040891,"Eggs, bird, not in shell, dried",,040899,0.75,1.00,Green,10046,4453,3404,3840
+,,,,,,Blue,633,476,318,375
+,,,,,,Grey,661,807,546,635
+040899,"Eggs, bird, not in shell nes",,040700,0.90,1.00,Green,7535,3340,2553,2880
+,,,,,,Blue,469,352,234,276
+,,,,,,Grey,495,606,410,476
+050210,"Bristles, hair and waste of pigs, hogs or boars","Bristle,hair for brushes",010310,0.01,0.03,Green,18293,12179,9401,11459
+,,,,,,Blue,997,985,1100,1040
+,,,,,,Grey,1510,1359,1596,1452
+050300,Horsehair&waste put up or not as a layer with or without supg material,Horsehair and waste,010111,0.01,0.02,Green,85248,73408,70489,78614
+,,,,,,Blue,3172,7536,4678,5269
+,,,,,,Grey,1428,2494,3105,2053
+051110,Semen bovine,Bovine semen,010210,0.0001,0.02,Green,1403705,1121435,637046,1068693
+,,,,,,Blue,30879,38238,49033,40581
+,,,,,,Grey,16135,30408,51254,33430
+160231,"Turkey meat and meat offal prepared or preserved, excluding livers","Poultry,prprd,prsrvd,nes",010599,0.78,1.00,Green,7919,4065,2337,3545
+,,,,,,Blue,734,348,210,313
+,,,,,,Grey,718,574,325,467
+160239,"Dom fowl,duck,goose&guinea fowl meat&meat offal prep/presvd exc livers",,010511,0.78,1.00,Green,7919,4065,2337,3545
+,,,,,,Blue,734,348,210,313
+,,,,,,Grey,718,574,325,467
+160241,Hams and cuts thereof of swine prepared or preserved,"Pork,prepred,presrvd,nes",020312,0.88,1.00,Green,8253,5613,4363,5287
+,,,,,,Blue,471,475,531,500
+,,,,,,Grey,681,627,741,670
+160242,Shoulders and cut thereof of swine prepared or preserved,,020312,0.98,1.00,Green,7411,5040,3918,4747
+,,,,,,Blue,417,421,472,444
+,,,,,,Grey,612,563,665,602
+160249,"Swine meat&meat offal nes/exc livers/ incl mixtures,prepard o preservd",,020630,0.30,0.33,Green,1796,1195,923,1125
+,,,,,,Blue,98,97,108,102
+,,,,,,Grey,148,133,157,143
+160250,"Bovine meat and meat offal nes,excluding livers, prepared or preserved","Bov.meat,prpd,prsrvd,nes",020610,0.60,1.00,Green,22838,18246,10365,17388
+,,,,,,Blue,502,622,798,660
+,,,,,,Grey,263,495,834,544
+410110,"Bovine skins, whole, raw",Whole bovin.hide<8kg dry,010210,0.06,0.05,Green,8362,6681,3795,6366
+,,,,,,Blue,184,228,292,242
+,,,,,,Grey,96,181,305,199
+410121,"Bovine hides, whole, fresh or wet-salted","Bovine hides,skins,fresh",410130,0.80,1.00,Green,10453,8351,4744,7958
+,,,,,,Blue,242,297,378,315
+,,,,,,Grey,120,226,382,249
+410122,"Butts and bends, bovine, fresh or wet-salted",,410130,0.80,1.00,Green,10453,8351,4744,7958
+,,,,,,Blue,242,297,378,315
+,,,,,,Grey,120,226,382,249
+410129,"Hide sections, bovine, nes, fresh or wet-salted",,410130,0.80,1.00,Green,10453,8351,4744,7958
+,,,,,,Blue,242,297,378,315
+,,,,,,Grey,120,226,382,249
+410130,"Bovine hides, raw, nes","Bovine hides,skins,other",010210,0.06,0.05,Green,8362,6681,3795,6366
+,,,,,,Blue,184,228,292,242
+,,,,,,Grey,96,181,305,199
+410140,"Equine hides and skins, raw","Equine hides,skins",010210,0.06,0.11,Green,17248,13780,7828,13132
+,,,,,,Blue,379,470,603,499
+,,,,,,Grey,198,374,630,411
+410210,"Sheep or lamb skins, raw, with wool on, nes","Sheep skin,excpt.furskin",010410,0.08,0.06,Green,5174,2535,1471,3107
+,,,,,,Blue,129,149,248,158
+,,,,,,Grey,7,22,69,24
+410221,"Sheep or lamb skins, pickled, without wool on",Sheep skin without wool,410210,0.95,1.00,Green,5447,2668,1549,3270
+,,,,,,Blue,141,162,266,171
+,,,,,,Grey,7,23,73,25
+410229,"Sheep or lamb skins, raw, o/t pickled, without wool on",,410210,0.95,1.00,Green,5447,2668,1549,3270
+,,,,,,Blue,141,162,266,171
+,,,,,,Grey,7,23,73,25
+410310,"Goat or kid hides and skins, raw, nes","Goat,kid skin,ex.furskin",010420,0.08,0.13,Green,8361,4268,2144,4611
+,,,,,,Blue,257,284,364,294
+,,,,,,Grey,0,3,16,5
+410410,"Bovine skin leather, whole",Whole bovine skin leathr,410110,0.40,1.00,Green,20905,16701,9487,15916
+,,,,,,Blue,535,644,805,679
+,,,,,,Grey,240,453,763,498
+410421,"Bovine leather, vegetable pre-tanned, nes","Oth.bov.,eqn.lthr,tanned",410121,0.50,1.00,Green,20905,16701,9487,15916
+,,,,,,Blue,525,634,795,669
+,,,,,,Grey,240,453,763,498
+410422,"Bovine leather, otherwise pre-tanned, nes",,410121,0.50,1.00,Green,20905,16701,9487,15916
+,,,,,,Blue,505,614,775,649
+,,,,,,Grey,240,453,763,498
+410429,"Bovine and equine leather, tanned or retanned, nes",,410121,0.50,1.00,Green,20905,16701,9487,15916
+,,,,,,Blue,505,614,775,649
+,,,,,,Grey,240,453,763,498
+410431,"Bovine and equine leather, full/split grains, nes","Oth.bov.,eqn.lthr,preprd",410121,0.50,1.00,Green,20905,16701,9487,15916
+,,,,,,Blue,545,654,815,689
+,,,,,,Grey,240,453,763,498
+410439,"Bovine and equine leather, nes",,410140,0.40,1.00,Green,43121,34450,19570,32829
+,,,,,,Blue,1024,1250,1581,1322
+,,,,,,Grey,496,934,1574,1027
+410511,"Sheep or lamb skin leather, vegetable pre-tanned","Sheepskin leather,tanned",410221,0.90,1.00,Green,6052,2964,1721,3634
+,,,,,,Blue,179,203,318,212
+,,,,,,Grey,8,26,81,28
+410512,"Sheep or lamb skin leather, otherwise pre-tanned",,410221,0.90,1.00,Green,6052,2964,1721,3634
+,,,,,,Blue,179,203,318,212
+,,,,,,Grey,8,26,81,28
+410519,"Sheep or lamb skin leather, tanned or retanned, nes",,410221,0.90,1.00,Green,6052,2964,1721,3634
+,,,,,,Blue,179,203,318,212
+,,,,,,Grey,8,26,81,28
+410520,"Sheep or lamb skin leather, nes","Sheepskin leather,preprd",410221,0.90,1.00,Green,6052,2964,1721,3634
+,,,,,,Blue,179,203,318,212
+,,,,,,Grey,8,26,81,28
+410611,"Goat or kid skin leather, vegetable pre-tanned","Goatskin leather,tanned",410310,0.90,1.00,Green,9290,4742,2382,5123
+,,,,,,Blue,308,338,427,349
+,,,,,,Grey,0,4,18,6
+410612,"Goat or kid skin leather, otherwise pre-tanned",,410310,0.90,1.00,Green,9290,4742,2382,5123
+,,,,,,Blue,308,338,427,349
+,,,,,,Grey,0,4,18,6
+410619,"Goat or kid skin leather, tanned or retanned, nes",,410310,0.90,1.00,Green,9290,4742,2382,5123
+,,,,,,Blue,308,338,427,349
+,,,,,,Grey,0,4,18,6
+410620,"Goat or kid skin leather, nes","Goatskin leather,preprd",410310,0.90,1.00,Green,9290,4742,2382,5123
+,,,,,,Blue,308,338,427,349
+,,,,,,Grey,0,4,18,6
+410710,"Swine leather, nes",Leather of swine,010310,0.02,0.10,Green,24391,16238,12535,15278
+,,,,,,Blue,1329,1314,1467,1387
+,,,,,,Grey,2013,1813,2128,1936

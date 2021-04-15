@@ -1,0 +1,1096 @@
+Product code (HS),Product description (HS),Product description (FAOSTAT),Root product (HS),Product fraction (pf),Value fraction (vf),Province/ state >>>,Global average
+100110 / 100190,"Wheat (Durum wheat, Wheat nes and meslin)",Wheat,100110 / 100190,1.00,1.00,Green,1277
+,,,,,,Blue,342
+,,,,,,Grey,207
+110100,Wheat or meslin flour,,100190,0.79,0.80,Green,1292
+,,,,,,Blue,347
+,,,,,,Grey,210
+110100a,Wheat bread,,110100,1.15,1.00,Green,1124
+,,,,,,Blue,301
+,,,,,,Grey,183
+110100b,Dry pasta,,110100,1.00,1.00,Green,1292
+,,,,,,Blue,347
+,,,,,,Grey,210
+110311,Wheat groats and meal,,110321,1.00,1.00,Green,1423
+,,,,,,Blue,382
+,,,,,,Grey,231
+110321,Wheat pellets,,100110,0.18,0.20,Green,1423
+,,,,,,Blue,382
+,,,,,,Grey,231
+110811,"Wheat, starch",,110100,0.85,0.66,Green,1004
+,,,,,,Blue,269
+,,,,,,Grey,163
+110900,"Wheat gluten, whether or not dried",,110100,0.15,0.34,Green,2928
+,,,,,,Blue,785
+,,,,,,Grey,476
+100610,Rice in the husk (paddy or rough),"Rice, paddy",100610,1.00,1.00,Green,1146
+,,,,,,Blue,341
+,,,,,,Grey,187
+100620,"Rice, husked (brown)",,100610,0.77,1.00,Green,1488
+,,,,,,Blue,443
+,,,,,,Grey,242
+100630,"Rice, semi-milled or wholly milled, whether or not polished or glazed",,100620,0.90,1.00,Green,1653
+,,,,,,Blue,492
+,,,,,,Grey,269
+100640,"Rice, broken",,100610,0.67,1.00,Green,1710
+,,,,,,Blue,509
+,,,,,,Grey,278
+110230,Rice flour,,100640,0.95,1.00,Green,1800
+,,,,,,Blue,535
+,,,,,,Grey,293
+110314,Rice groats and meal,,100610,0.75,1.00,Green,1527
+,,,,,,Blue,454
+,,,,,,Grey,249
+100300,Barley,Barley,100300,1.00,1.00,Green,1213
+,,,,,,Blue,79
+,,,,,,Grey,131
+110411,"Barley, rolled or flaked grains",,100300,0.72,1.00,Green,1685
+,,,,,,Blue,110
+,,,,,,Grey,182
+110421,"Barley,hulled,pearled,sliced or kibbled",,100300,0.72,1.00,Green,1685
+,,,,,,Blue,110
+,,,,,,Grey,182
+110710,"Malt, not roasted",,100300,0.73,1.00,Green,1662
+,,,,,,Blue,108
+,,,,,,Grey,180
+110720,"Malt, roasted",,110710,0.80,1.00,Green,2078
+,,,,,,Blue,135
+,,,,,,Grey,225
+220300,Beer made from malt,,110710,6.55,1.00,Green,254
+,,,,,,Blue,16
+,,,,,,Grey,27
+1005,Maize (corn),Maize,1005,1.00,1.00,Green,947
+,,,,,,Blue,81
+,,,,,,Grey,194
+100590,Maize (corn) nes,,1005a,1.00,1.00,Green,947
+,,,,,,Blue,81
+,,,,,,Grey,194
+110220,Maize (corn) flour,,100590,0.82,0.84,Green,971
+,,,,,,Blue,83
+,,,,,,Grey,199
+110313,Maize (corn) groats and meal,,100590,0.11,0.10,Green,837
+,,,,,,Blue,72
+,,,,,,Grey,171
+110423,"Maize (corn), hulled, pearled, sliced or kibbled",,100590,0.93,1.00,Green,1018
+,,,,,,Blue,87
+,,,,,,Grey,209
+110812,Maize (corn) starch,,110220,0.75,1.00,Green,1295
+,,,,,,Blue,111
+,,,,,,Grey,265
+151521,Maize (corn) oil crude,,100590,0.03,0.06,Green,1956
+,,,,,,Blue,168
+,,,,,,Grey,400
+151529,"Maize (corn) oil and its fractions,refined but not chemically modified",,151521,0.98,1.00,Green,1996
+,,,,,,Blue,171
+,,,,,,Grey,409
+100200,Rye,Rye,100200,1.00,1.00,Green,1419
+,,,,,,Blue,25
+,,,,,,Grey,99
+110210,Rye flour,,100200,0.80,1.00,Green,1774
+,,,,,,Blue,32
+,,,,,,Grey,124
+100400,Oats,Oats,100400,1.00,1.00,Green,1479
+,,,,,,Blue,181
+,,,,,,Grey,128
+110312,Oat groats and meal,,100400,0.20,0.28,Green,2098
+,,,,,,Blue,257
+,,,,,,Grey,182
+110412,"Oats, rolled or flaked grains",,100400,0.53,0.72,Green,1998
+,,,,,,Blue,245
+,,,,,,Grey,173
+110422,"Oats, hulled,pearled,sliced or kibbled",,100400,0.73,1.00,Green,2026
+,,,,,,Blue,248
+,,,,,,Grey,175
+100820,Millet,Millet,100820,1.00,1.00,Green,4306
+,,,,,,Blue,57
+,,,,,,Grey,115
+100700,Grain sorghum,Sorghum,100700,1.00,1.00,Green,2857
+,,,,,,Blue,103
+,,,,,,Grey,87
+100810,Buckwheat,Buckwheat,100810,1.00,1.00,Green,2769
+,,,,,,Blue,144
+,,,,,,Grey,229
+100890ac,Quinoa,Quinoa,100890ac,1.00,1.00,Green,4184
+,,,,,,Blue,48
+,,,,,,Grey,280
+100890ad,Fonio,Fonio,100890ad,1.00,1.00,Green,4938
+,,,,,,Blue,
+,,,,,,Grey,13
+100890ae,Triticale,Triticale,100890ae,1.00,1.00,Green,826
+,,,,,,Blue,38
+,,,,,,Grey,89
+100830,Canary seed,Canary seed,100830,1.00,1.00,Green,4872
+,,,,,,Blue,2
+,,,,,,Grey,314
+100890af,Mixed grain,Mixed grain,100890af,1.00,1.00,Green,1598
+,,,,,,Blue,33
+,,,,,,Grey,28
+100890,Cereals unmilled nes,"Cereals, nes",100890,1.00,1.00,Green,3316
+,,,,,,Blue,115
+,,,,,,Grey,9
+110290,Cereal flour nes,,100890,0.79,0.83,Green,3468
+,,,,,,Blue,121
+,,,,,,Grey,9
+110319,Cereal groats and meal nes,,110329,1.00,1.00,Green,2896
+,,,,,,Blue,101
+,,,,,,Grey,8
+110329,Cereal pellets nes,,100890,0.18,0.16,Green,2896
+,,,,,,Blue,101
+,,,,,,Grey,8
+110419,"Cereals, rolled or flaked grains nes",,100890,0.85,1.00,Green,3902
+,,,,,,Blue,136
+,,,,,,Grey,10
+110429,"Cereals, hulled, pearled, sliced or kibbled nes",,100890,0.85,1.00,Green,3902
+,,,,,,Blue,136
+,,,,,,Grey,10
+110430,"Germ of cereals, whole, rolled, flaked or ground",,100890,0.02,0.02,Green,2757
+,,,,,,Blue,96
+,,,,,,Grey,7
+070190,"Potatoes, fresh or chilled nes",Potatoes,070190,1.00,1.00,Green,191
+,,,,,,Blue,33
+,,,,,,Grey,63
+070190a,Tapioca of potatoes,,070190,0.20,1.00,Green,955
+,,,,,,Blue,165
+,,,,,,Grey,317
+071010,"Potatoes, frozen",,070190,0.50,1.00,Green,382
+,,,,,,Blue,66
+,,,,,,Grey,127
+110510,Potato flour and meal,,070190,0.20,1.00,Green,955
+,,,,,,Blue,165
+,,,,,,Grey,317
+110520,Potato flakes,,070190,0.28,1.00,Green,694
+,,,,,,Blue,120
+,,,,,,Grey,230
+110813,Potato starch,,070190,0.19,1.00,Green,1005
+,,,,,,Blue,173
+,,,,,,Grey,333
+071420,"Sweet potatoes, fresh or dried, whether or not sliced or pelleted",Sweet potatoes,071420,1.00,1.00,Green,324
+,,,,,,Blue,5
+,,,,,,Grey,53
+071410,"Manioc (cassava), fresh or dried, whether or not sliced or pelleted",Cassava,071410,1.00,1.00,Green,550
+,,,,,,Blue,0
+,,,,,,Grey,13
+071410a,Tapioca of cassava,,071410,0.20,1.00,Green,2750
+,,,,,,Blue,1
+,,,,,,Grey,66
+071410b,Flour of cassava,,071410,0.30,1.00,Green,1833
+,,,,,,Blue,1
+,,,,,,Grey,44
+071410c,Dried cassava,,071410,0.35,1.00,Green,1571
+,,,,,,Blue,1
+,,,,,,Grey,38
+110814,Manioc (cassava) starch,,071410,0.25,1.00,Green,2200
+,,,,,,Blue,1
+,,,,,,Grey,53
+071490ba,Yautia (cocoyam),Yautia (cocoyam),071490ba,1.00,1.00,Green,849
+,,,,,,Blue,22
+,,,,,,Grey,11
+071490_bb,Taro (coco yam),Taro (coco yam),071490_bb,1.00,1.00,Green,587
+,,,,,,Blue,3
+,,,,,,Grey,15
+071490_a,Yams,Yams,071490_a,1.00,1.00,Green,341
+,,,,,,Blue,0
+,,,,,,Grey,1
+070690,"Salad beetroot,salsif,celeriac,radish&sim edibl roots,fresh/chilld nes",,071490_bc,1.00,1.00,Green,348
+,,,,,,Blue,15
+,,,,,,Grey,22
+071490,"Arrowroot,salep etc fr o drid whether o not slicd o pelletd&sago pith",,071490_bc,1.00,1.00,Green,348
+,,,,,,Blue,15
+,,,,,,Grey,22
+071490_bc,Roots and tubers nes,Roots and tubers nes,071490_bc,1.00,1.00,Green,348
+,,,,,,Blue,15
+,,,,,,Grey,22
+110620,Flour&meal of sago&of roots or tubers with hi starch or inulin content,,070690,0.25,1.00,Green,1392
+,,,,,,Blue,61
+,,,,,,Grey,88
+121292,"Sugar cane, fresh or dried, whether or not ground",Sugar cane,121292,1.00,1.00,Green,139
+,,,,,,Blue,57
+,,,,,,Grey,13
+170111,"Raw sugar, cane",,121292,0.11,0.87,Green,1107
+,,,,,,Blue,455
+,,,,,,Grey,104
+170191,"Refined sugar,in solid form,containg added flavourg or colourg matter",,170111,0.94,1.00,Green,1184
+,,,,,,Blue,487
+,,,,,,Grey,111
+170199,"Refined sugar, in solid form, nes",,170191,1.00,1.00,Green,1184
+,,,,,,Blue,487
+,,,,,,Grey,111
+170220,Maple sugar and maple syrup,,170191,1.00,1.00,Green,1184
+,,,,,,Blue,487
+,,,,,,Grey,111
+170230,Glucose&glucose syrup nt cntg fruct/cntg in dry state <20% by wt fruct,,170191,1.00,1.00,Green,1184
+,,,,,,Blue,487
+,,,,,,Grey,111
+170240,Glucose inc syrup cntg in dry state min 20% but <50% by wt of fructose,,170191,1.00,1.00,Green,1184
+,,,,,,Blue,487
+,,,,,,Grey,111
+170250,"Fructose, chemically pure",,170191,1.00,1.00,Green,1184
+,,,,,,Blue,487
+,,,,,,Grey,111
+170260,"Fructose&fructose syrup nes,cntg in dry state >50% by wght of fructose",,170191,1.00,1.00,Green,1184
+,,,,,,Blue,487
+,,,,,,Grey,111
+170310,Cane molasses,,121292,0.05,0.13,Green,350
+,,,,,,Blue,144
+,,,,,,Grey,33
+121291,"Sugar beet, fresh or dried, whether or not ground",Sugar beet,121291,1.00,1.00,Green,82
+,,,,,,Blue,26
+,,,,,,Grey,25
+170112,"Raw sugar, beet",,121291,0.14,0.92,Green,535
+,,,,,,Blue,167
+,,,,,,Grey,162
+170390,Molasses nes,,121291,0.05,0.08,Green,139
+,,,,,,Blue,43
+,,,,,,Grey,42
+121299ab,"Sugar crops, nes","Sugar crops, nes",121299ab,1.00,1.00,Green,980
+,,,,,,Blue,
+,,,,,,Grey,94
+170290,"Sugar nes, including invert sugar",,121299ab,0.10,1.00,Green,9795
+,,,,,,Blue,
+,,,,,,Grey,935
+071332,"Beans,small red (Adzuki) dried,shelled,whether or not skinned or split","Beans, dry",071332,1.00,1.00,Green,3945
+,,,,,,Blue,125
+,,,,,,Grey,983
+071333,"Kidney beans&white pea beans drid shelld,whether o not skinnd o split",,071332,1.00,1.00,Green,3945
+,,,,,,Blue,125
+,,,,,,Grey,983
+071339,"Beans dried, shelled, whether or not skinned or split, nes",,071332,1.00,1.00,Green,3945
+,,,,,,Blue,125
+,,,,,,Grey,983
+110610,Flour and meal of the dried leguminous vegetables of heading No 07.13,,071332,0.72,1.00,Green,5479
+,,,,,,Blue,173
+,,,,,,Grey,1366
+071350,"Broad beans&horse beans dried,shelled,whether or not skinned or split","Broad beans, horse beans, dry",071350,1.00,1.00,Green,1317
+,,,,,,Blue,205
+,,,,,,Grey,496
+071310,"Peas dried, shelled, whether or not skinned or split","Peas, dry",071310,1.00,1.00,Green,1453
+,,,,,,Blue,33
+,,,,,,Grey,493
+071320,"Chickpeas, dried, shelled, whether or not skinned or split",Chick peas,071320,1.00,1.00,Green,2972
+,,,,,,Blue,224
+,,,,,,Grey,981
+07133_b,"Cow peas, dry","Cow peas, dry",07133_b,1.00,1.00,Green,6841
+,,,,,,Blue,10
+,,,,,,Grey,55
+071390aa,Pigeon peas,Pigeon peas,071390aa,1.00,1.00,Green,4739
+,,,,,,Blue,72
+,,,,,,Grey,683
+071340,"Lentils dried, shelled, whether or not skinned or split",Lentils,071340,1.00,1.00,Green,4324
+,,,,,,Blue,489
+,,,,,,Grey,1060
+071390ad,Bambara beans,Bambara beans,071390ad,1.00,1.00,Green,3162
+,,,,,,Blue,71
+,,,,,,Grey,34
+071390ac,Vetches,Vetches,071390ac,1.00,1.00,Green,2031
+,,,,,,Blue,109
+,,,,,,Grey,213
+071390ab,Lupins,Lupins,071390ab,1.00,1.00,Green,1350
+,,,,,,Blue,21
+,,,,,,Grey,506
+071331,"Urd,mung,black/green gram beans drid shelld,whether/not skinnd/split",,071390ae,1.00,1.00,Green,2217
+,,,,,,Blue,250
+,,,,,,Grey,650
+071390ae,Pulses nes,Pulses nes,071390ae,1.00,1.00,Green,2217
+,,,,,,Blue,250
+,,,,,,Grey,650
+080121,"Brazil nuts, with shell","Brazil nuts, with shell",080121,1.00,1.00,Green,248
+,,,,,,Blue,
+,,,,,,Grey,8
+080131_a,Cashew nuts,Cashew nuts,080131_a,1.00,1.00,Green,12853
+,,,,,,Blue,921
+,,,,,,Grey,444
+080240,"Chestnuts, fresh or dried, whether or not shelled or peeled",Chestnuts,080240,1.00,1.00,Green,2432
+,,,,,,Blue,174
+,,,,,,Grey,144
+080211,Almonds in shell fresh or dried,"Almonds, with shell",080211,1.00,1.00,Green,4632
+,,,,,,Blue,1908
+,,,,,,Grey,1507
+080212,"Almonds,fresh or dried,shelled or peeled",,080211,0.50,1.00,Green,9264
+,,,,,,Blue,3816
+,,,,,,Grey,3015
+080231,"Walnuts in shell, fresh or dried","Walnuts, with shell",080231,1.00,1.00,Green,2805
+,,,,,,Blue,1299
+,,,,,,Grey,814
+080232,"Walnuts, fresh or dried, shelled or peeled",,080231,0.53,1.00,Green,5293
+,,,,,,Blue,2451
+,,,,,,Grey,1536
+080250,"Pistachios, fresh or dried, whether or not shelled or peeled",Pistachios,080250,1.00,1.00,Green,3095
+,,,,,,Blue,7602
+,,,,,,Grey,666
+080290aa,Kolanuts,Kolanuts,080290aa,1.00,1.00,Green,23345
+,,,,,,Blue,26
+,,,,,,Grey,19
+080221,Hazelnuts or filberts in shell fresh or dried,"Hazelnuts, with shell",080221,1.00,1.00,Green,3813
+,,,,,,Blue,1090
+,,,,,,Grey,354
+080222,"Hazelnuts or filberts, fresh or dried, shelled or peeled",,080221,0.50,1.00,Green,7627
+,,,,,,Blue,2180
+,,,,,,Grey,709
+080290ab,Arecanuts,Arecanuts,080290ab,1.00,1.00,Green,10621
+,,,,,,Blue,139
+,,,,,,Grey,406
+080290,"Nuts edible, fresh or dried, whether or not shelled or peeled, nes","Nuts, nes",080290,1.00,1.00,Green,8379
+,,,,,,Blue,1156
+,,,,,,Grey,891
+120100,Soya beans,Soybeans,120100,1.00,1.00,Green,2037
+,,,,,,Blue,70
+,,,,,,Grey,37
+120100a,Soya sauce,,120100,3.50,1.00,Green,582
+,,,,,,Blue,20
+,,,,,,Grey,11
+120100b,Soya curd (tofu),,120100,3.75,1.00,Green,543
+,,,,,,Blue,19
+,,,,,,Grey,10
+120100d,soybean ingredient into the soymilk,,120100,0.57,1.00,Green,3574
+,,,,,,Blue,123
+,,,,,,Grey,65
+120100e,Soy burger,,120100,0.57,1.00,Green,3574
+,,,,,,Blue,123
+,,,,,,Grey,65
+120810,Soya bean flour and meals,,120100,0.85,1.00,Green,2397
+,,,,,,Blue,83
+,,,,,,Grey,44
+150710,"Soya-bean oil crude, whether or not degummed",,120100,0.18,0.34,Green,3900
+,,,,,,Blue,135
+,,,,,,Grey,71
+150790,"Soya-bean oil and its fractions, refined but not chemically modified",,150710,0.98,1.00,Green,3980
+,,,,,,Blue,137
+,,,,,,Grey,73
+230400,"Soya-bean oil-cake&oth solid residues,whether or not ground or pellet",,120100,0.79,0.66,Green,1690
+,,,,,,Blue,58
+,,,,,,Grey,31
+120210,Ground-nuts in shell not roasted or otherwise cooked,Groundnuts in shell,120210,1.00,1.00,Green,2469
+,,,,,,Blue,150
+,,,,,,Grey,163
+120220,"Ground-nuts shelld,whether or not broken,not roastd or otherwise cookd",,120210,0.70,1.00,Green,3526
+,,,,,,Blue,214
+,,,,,,Grey,234
+150810,"Ground-nut oil, crude",,120220,0.43,0.80,Green,6547
+,,,,,,Blue,397
+,,,,,,Grey,434
+150890,Ground-nut oil and its fractions refined but not chemically modified,,150810,0.98,1.00,Green,6681
+,,,,,,Blue,405
+,,,,,,Grey,442
+230500,"Ground-nut oil-cake&oth solid residues,whether or not ground or pellet",,120220,0.54,0.20,Green,1317
+,,,,,,Blue,80
+,,,,,,Grey,87
+080119,Coconuts,Coconuts,080119,1.00,1.00,Green,2669
+,,,,,,Blue,2
+,,,,,,Grey,16
+120300,Copra,,120300a,0.60,1.00,Green,2079
+,,,,,,Blue,1
+,,,,,,Grey,12
+120300a,Coconut (husked),,080119,1.00,0.47,Green,1248
+,,,,,,Blue,1
+,,,,,,Grey,7
+151311,Coconut (copra) oil crude,,120300,0.36,0.76,Green,4372
+,,,,,,Blue,3
+,,,,,,Grey,26
+151319,Coconut (copra) oil&its fractions refined but not chemically modified,,151311,0.98,1.00,Green,4461
+,,,,,,Blue,3
+,,,,,,Grey,27
+230650,"Coconut/copra oil-cake&oth solid residues,whether/not ground/pellet",,120300,0.61,0.24,Green,829
+,,,,,,Blue,1
+,,,,,,Grey,5
+530511,"Coconut (coir) fibre, raw",,530519,0.75,1.00,Green,3245
+,,,,,,Blue,2
+,,,,,,Grey,19
+530519,"Coconut (coir) fibre,processd nt spun;tow,noils&waste of coconut fib",,120300a,0.50,0.46,Green,2434
+,,,,,,Blue,2
+,,,,,,Grey,15
+120710,"Palm nuts and kernels, whether or not broken",,120710ab,0.06,0.16,Green,2762
+,,,,,,Blue,1
+,,,,,,Grey,105
+120710ab,Oil palm fruit,Oil palm,120710ab,1.00,1.00,Green,1057
+,,,,,,Blue,0
+,,,,,,Grey,40
+151110,"Palm oil, crude",,120710ab,0.19,0.84,Green,4691
+,,,,,,Blue,1
+,,,,,,Grey,179
+151190,Palm oil and its fractions refined but not chemically modified,,151110,0.98,1.00,Green,4787
+,,,,,,Blue,1
+,,,,,,Grey,182
+151321,"Palm kernel or babassu oil, crude",,120710,0.46,0.85,Green,5098
+,,,,,,Blue,1
+,,,,,,Grey,194
+151329,"Palm kernel/babassu oil their fract,refind but not chemically modifid",,151321,0.98,1.00,Green,5202
+,,,,,,Blue,1
+,,,,,,Grey,198
+230660,"Palm nut/kernel oil-cake&oth solid residues,whether/not ground/pellet",,120710,0.52,0.15,Green,802
+,,,,,,Blue,0
+,,,,,,Grey,31
+070990aa,Olives,Olives,070990aa,1.00,1.00,Green,2470
+,,,,,,Blue,499
+,,,,,,Grey,45
+071120,"Olives,provisionally preservd but nt suitable f immediate consumption",,07990aa,1.00,1.00,Green,2470
+,,,,,,Blue,499
+,,,,,,Grey,45
+150910,"Olive oil, virgin",,071120,0.20,0.96,Green,11826
+,,,,,,Blue,2388
+,,,,,,Grey,217
+150990,Olive oil and its fractions refined but not chemically modified,,150910,0.98,1.00,Green,12067
+,,,,,,Blue,2437
+,,,,,,Grey,221
+151000,"Oils&thr fract nes obt from olives,ref'd/not,not chem mod,incl blends",,071120,0.02,0.04,Green,5260
+,,,,,,Blue,1062
+,,,,,,Grey,96
+120730,"Castor oil seeds, whether or not broken",Castor oil seed,120730,1.00,1.00,Green,8423
+,,,,,,Blue,1175
+,,,,,,Grey,298
+151530,"Castor oil&its fractions,whether/not refind,but not chemically modifid",,120730,0.40,1.00,Green,21058
+,,,,,,Blue,2938
+,,,,,,Grey,744
+120600,"Sunflower seeds, whether or not broken",Sunflower seed,120600,1.00,1.00,Green,3017
+,,,,,,Blue,148
+,,,,,,Grey,201
+151211,"Sunflower-seed or safflower oil, crude",,120600,0.41,0.81,Green,5967
+,,,,,,Blue,293
+,,,,,,Grey,397
+151219,Sunflower-sed/safflower oil&their fractions refind but nt chem modifid,,151211,0.98,1.00,Green,6088
+,,,,,,Blue,299
+,,,,,,Grey,405
+230630,"Sunflower sed oil-cake&oth solid residues,whether/not ground/pellet",,120600,0.47,0.19,Green,1215
+,,,,,,Blue,60
+,,,,,,Grey,81
+120500,"Rape or colza seeds, whether or not broken",Rapeseed,120500,1.00,1.00,Green,1703
+,,,,,,Blue,231
+,,,,,,Grey,336
+151410,"Rape, colza or mustard oil crude",,120500,0.38,0.71,Green,3162
+,,,,,,Blue,429
+,,,,,,Grey,624
+151490,"Rape,colza o mustard oil&their fract,refind but not chemically modifid",,151410,0.98,1.00,Green,3226
+,,,,,,Blue,438
+,,,,,,Grey,636
+230640,"Rape/colza sed oil-cake&oth solid residues,whether/not ground/pellet",,120500,0.60,0.29,Green,837
+,,,,,,Blue,114
+,,,,,,Grey,165
+120760,"Safflower seeds, whether or not broken",Safflower seed,120760,1.00,1.00,Green,6000
+,,,,,,Blue,938
+,,,,,,Grey,283
+120740,"Sesamum seeds, whether or not broken",Sesame seed,120740,1.00,1.00,Green,8460
+,,,,,,Blue,509
+,,,,,,Grey,403
+151550,"Sesame oil&its fractions whether/not refind,but not chemically modifid",,120740,0.43,1.00,Green,19674
+,,,,,,Blue,1183
+,,,,,,Grey,936
+120750,"Mustard seeds, whether or not broken",Mustard seed,120750,1.00,1.00,Green,2463
+,,,,,,Blue,1
+,,,,,,Grey,345
+120791,"Poppy seeds, whether or not broken",Poppy seed,120791,1.00,1.00,Green,1723
+,,,,,,Blue,
+,,,,,,Grey,464
+12079ab,Melonseed,Melonseed,12079ab,1.00,1.00,Green,5087
+,,,,,,Blue,56
+,,,,,,Grey,41
+120720a,Seed cotton,Seed cotton,120720a,1.00,1.00,Green,2282
+,,,,,,Blue,1306
+,,,,,,Grey,440
+120720,"Cotton seeds, whether or not broken",,120720a,0.63,0.21,Green,755
+,,,,,,Blue,432
+,,,,,,Grey,146
+120720b,Cotton lint,,120720a,0.35,0.79,Green,5163
+,,,,,,Blue,2955
+,,,,,,Grey,996
+140420,Cotton linters,,120720,0.10,0.20,Green,1474
+,,,,,,Blue,844
+,,,,,,Grey,284
+151221,"Cotton-seed oil crude, whether or not gossypol has been removed",,120720,0.16,0.48,Green,2242
+,,,,,,Blue,1283
+,,,,,,Grey,432
+151229,Cotton-seed and its fractions refined but not chemically modified,,151221,1.00,1.00,Green,2242
+,,,,,,Blue,1283
+,,,,,,Grey,432
+230610,"Cotton sed oil-cake&oth solid residues,whether or not ground or pellet",,120720,0.51,0.33,Green,487
+,,,,,,Blue,279
+,,,,,,Grey,94
+520100,"Cotton, not carded or combed",,120720b,1.00,1.00,Green,5163
+,,,,,,Blue,2955
+,,,,,,Grey,996
+520210,Cotton yarn waste (including thread waste),,520100,0.05,0.01,Green,950
+,,,,,,Blue,544
+,,,,,,Grey,183
+520291,Garnetted stock of cotton,,520100,0.05,0.01,Green,1426
+,,,,,,Blue,816
+,,,,,,Grey,275
+520299,"Cotton waste, nes",,520291,0.85,1.00,Green,1677
+,,,,,,Blue,960
+,,,,,,Grey,323
+520300,"Cotton, carded or combed",,520100,0.95,0.99,Green,5359
+,,,,,,Blue,3067
+,,,,,,Grey,1034
+520511,Cotton fabric and finished textiles,,520100,0.95,0.99,Green,5384
+,,,,,,Blue,3253
+,,,,,,Grey,1344
+120400,"Linseed, whether or not broken",Linseed,120400,1.00,1.00,Green,4730
+,,,,,,Blue,268
+,,,,,,Grey,170
+151511,"Linseed oil, crude",,120400,0.35,0.62,Green,8445
+,,,,,,Blue,478
+,,,,,,Grey,303
+151519,"Linseed oil and its fractions, refined but not chemically modified",,151511,0.98,1.00,Green,8618
+,,,,,,Blue,488
+,,,,,,Grey,310
+230620,"Linseed oil-cake&other solid residues,whether or not ground or pellet",,120400,0.63,0.38,Green,2816
+,,,,,,Blue,160
+,,,,,,Grey,101
+12079ag,Hempseed,Hempseed,12079ag,1.00,1.00,Green,3257
+,,,,,,Blue,12
+,,,,,,Grey,417
+12079ak,"Oilseeds, Nes","Oilseeds, Nes",12079ak,1.00,1.00,Green,3230
+,,,,,,Blue,131
+,,,,,,Grey,61
+120792,"Shea nuts (karite nuts), whether or not broken",,120792,1.00,1.00,Green,3230
+,,,,,,Blue,131
+,,,,,,Grey,61
+120799,"Oil seeds and oleaginous fruits, nes, whether or not broken",,120799,1.00,1.00,Green,3230
+,,,,,,Blue,131
+,,,,,,Grey,61
+120890,"Flours and meals of oil seeds or oleaginous fruits,except mustard,nes",,120799,0.80,1.00,Green,4037
+,,,,,,Blue,163
+,,,,,,Grey,76
+151560,"Jojoba oil&its fractions whether/not refind,but not chemically modifid",,151560,1.00,1.00,Green,3230
+,,,,,,Blue,131
+,,,,,,Grey,61
+070490,"Cabbages,kohlrabi,kale and sim edible brassicas nes,fresh or chilled",Cabbages and other brassicas,070490,1.00,1.00,Green,181
+,,,,,,Blue,26
+,,,,,,Grey,73
+070910,"Globe artichokes, fresh or chilled",Artichokes,070910,1.00,1.00,Green,478
+,,,,,,Blue,242
+,,,,,,Grey,98
+070920,"Asparagus, fresh or chilled",Asparagus,070920,1.00,1.00,Green,1524
+,,,,,,Blue,119
+,,,,,,Grey,507
+070511,Cabbage lettuce (head lettuce) fresh or chilled,Lettuce and chicory,070511,1.00,1.00,Green,133
+,,,,,,Blue,28
+,,,,,,Grey,77
+070519,"Lettuce, fresh or chilled nes",,070511,1.00,1.00,Green,133
+,,,,,,Blue,28
+,,,,,,Grey,77
+070970,"Spinach,N-Z spinach & orache spinach (garden spinach),fresh or chilled",Spinach,070970,1.00,1.00,Green,118
+,,,,,,Blue,14
+,,,,,,Grey,160
+071030,"Spinach, N-Z spinach and orache spinach (garden spinach), frozen",,070970,0.35,1.00,Green,338
+,,,,,,Blue,39
+,,,,,,Grey,457
+070200,"Tomatoes, fresh or chilled",Tomatoes,070200,1.00,1.00,Green,108
+,,,,,,Blue,63
+,,,,,,Grey,43
+070200a,"Tomato juice, concentrated",,070200,0.20,1.00,Green,539
+,,,,,,Blue,316
+,,,,,,Grey,213
+070200b,Tomato paste,,070200,0.25,1.00,Green,431
+,,,,,,Blue,253
+,,,,,,Grey,171
+070200c,Tomato ketchup,,070200,0.40,1.00,Green,270
+,,,,,,Blue,158
+,,,,,,Grey,107
+070200d,Tomato puree,,070200,0.30,1.00,Green,360
+,,,,,,Blue,211
+,,,,,,Grey,142
+070200e,Peeled tomatoes,,070200,0.80,1.00,Green,135
+,,,,,,Blue,79
+,,,,,,Grey,53
+070200f,"Tomato, dried",,070200,0.05,1.00,Green,2157
+,,,,,,Blue,1265
+,,,,,,Grey,853
+200950,"Tomato juice unfermented&not spirited,whether or not sugared or sweet",,070200,0.80,1.00,Green,135
+,,,,,,Blue,79
+,,,,,,Grey,53
+070410,"Cauliflowers and headed broccoli, fresh or chilled",Cauliflowers and broccoli,070410,1.00,1.00,Green,189
+,,,,,,Blue,21
+,,,,,,Grey,75
+070420,"Brussels sprouts, fresh or chilled",,070420,1.00,1.00,Green,189
+,,,,,,Blue,21
+,,,,,,Grey,75
+070990_b,"Pumpkins, squash and gourds","Pumpkins, squash and gourds",070990_b,1.00,1.00,Green,228
+,,,,,,Blue,24
+,,,,,,Grey,84
+070700,"Cucumbers and gherkins, fresh or chilled",Cucumbers and gherkins,070700,1.00,1.00,Green,206
+,,,,,,Blue,42
+,,,,,,Grey,105
+071140,"Cucumbers&gherkins provisionally presvd,but nt f immediate consumption",,070700,1.00,1.00,Green,206
+,,,,,,Blue,42
+,,,,,,Grey,105
+070930,"Aubergines(egg-plants), fresh or chilled",Eggplants (aubergines),070930,1.00,1.00,Green,234
+,,,,,,Blue,33
+,,,,,,Grey,95
+070960,"Peppers of the genus Capsicum or of the genus Pimenta,fresh or chilled","Chillies and peppers, green",070960,1.00,1.00,Green,240
+,,,,,,Blue,42
+,,,,,,Grey,97
+070310,"Onions and shallots, fresh or chilled","Onions (inc. shallots), green",070310,1.00,1.00,Green,176
+,,,,,,Blue,44
+,,,,,,Grey,51
+071110,"Onions,provisionally preservd but nt suitable f immediate consumption",,071220,1.00,1.00,Green,192
+,,,,,,Blue,88
+,,,,,,Grey,65
+071220,Onions dried but not further prepared,"Onions, dry",071220,1.00,1.00,Green,192
+,,,,,,Blue,88
+,,,,,,Grey,65
+070320,"Garlic, fresh or chilled",Garlic,070320,1.00,1.00,Green,337
+,,,,,,Blue,81
+,,,,,,Grey,170
+070320a,Garlic powder,,070320,0.26,1.00,Green,1297
+,,,,,,Blue,313
+,,,,,,Grey,655
+070820,"Beans, shelled or unshelled, fresh or chilled","Beans, green",070820,1.00,1.00,Green,320
+,,,,,,Blue,54
+,,,,,,Grey,188
+071022,"Beans, frozen",,070820,0.70,1.00,Green,456
+,,,,,,Blue,76
+,,,,,,Grey,269
+070810,"Peas, shelled or unshelled, fresh or chilled","Peas, green",070810,1.00,1.00,Green,382
+,,,,,,Blue,63
+,,,,,,Grey,150
+071021,"Peas, frozen",,070810,0.70,1.00,Green,546
+,,,,,,Blue,89
+,,,,,,Grey,215
+070820_b,String beans,String beans,070820_b,1.00,1.00,Green,301
+,,,,,,Blue,104
+,,,,,,Grey,143
+070610,"Carrots and turnips, fresh or chilled",Carrots and turnips,070610,1.00,1.00,Green,106
+,,,,,,Blue,28
+,,,,,,Grey,61
+070940,"Celery, other than celeriac, fresh or chilled",,070940,1.00,1.00,Green,106
+,,,,,,Blue,28
+,,,,,,Grey,61
+070990cb,Okra,Okra,070990cb,1.00,1.00,Green,474
+,,,,,,Blue,36
+,,,,,,Grey,65
+070990ca,"Maize, green","Maize, green",070990ca,1.00,1.00,Green,455
+,,,,,,Blue,157
+,,,,,,Grey,88
+071040,"Sweet corn, frozen",,070990ca,1.00,1.00,Green,455
+,,,,,,Blue,157
+,,,,,,Grey,88
+121210,Carobs,Carobs,121210,1.00,1.00,Green,4557
+,,,,,,Blue,334
+,,,,,,Grey,703
+070990,"Vegetables, fresh or chilled nes",Vegetables fresh nes,070990,1.00,1.00,Green,205
+,,,,,,Blue,33
+,,,,,,Grey,101
+071080,"Vegetables, frozen nes",,070990,0.70,1.00,Green,292
+,,,,,,Blue,47
+,,,,,,Grey,144
+071090,"Mixtures of vegetables, frozen",,070990,1.00,1.00,Green,205
+,,,,,,Blue,33
+,,,,,,Grey,101
+071190,Vegetables nes&mixtures provis presvd but nt f immediate consumptn,,070990,1.00,1.00,Green,205
+,,,,,,Blue,33
+,,,,,,Grey,101
+071290,"Vegetables and mixtures dried, but not further prepared nes",,070990,0.35,1.00,Green,584
+,,,,,,Blue,94
+,,,,,,Grey,288
+121299,Vegetable products nes used primarily for human consumption,,070990,1.00,1.00,Green,205
+,,,,,,Blue,33
+,,,,,,Grey,101
+080300,"Bananas including plantains, fresh or dried",,080300,1.00,1.00,Green,660
+,,,,,,Blue,97
+,,,,,,Grey,33
+080300aa,Bananas,Bananas,080300aa,1.00,1.00,Green,660
+,,,,,,Blue,97
+,,,,,,Grey,33
+080300_b,Plantains,Plantains,080300_b,1.00,1.00,Green,1570
+,,,,,,Blue,27
+,,,,,,Grey,6
+080510,"Oranges, fresh or dried",Oranges,080510,1.00,1.00,Green,401
+,,,,,,Blue,110
+,,,,,,Grey,49
+200911,"Orange juice,unfermentd&not spiritd,whether/not sugard/sweet,frozen",,080510,0.55,1.00,Green,729
+,,,,,,Blue,199
+,,,,,,Grey,90
+200919,"Orange juice nes,unfermentd&not spiritd,whether or not sugard or sweet",,080510,0.55,1.00,Green,729
+,,,,,,Blue,199
+,,,,,,Grey,90
+080520,"Mandarins(tang&sats)clementines&wilkgs &sim citrus hybrids,fresh/drid","Tangerines, mandarins, clem.",080520,1.00,1.00,Green,479
+,,,,,,Blue,118
+,,,,,,Grey,152
+080530,"Lemons and limes, fresh or dried",Lemons and limes,080530,1.00,1.00,Green,432
+,,,,,,Blue,152
+,,,,,,Grey,58
+080540,"Grapefruit, fresh or dried",Grapefruit (inc. pomelos),080540,1.00,1.00,Green,367
+,,,,,,Blue,85
+,,,,,,Grey,54
+200920,"Grapefruit juice,unfermentd&not spiritd,whether or not sugard or sweet",,080540,0.75,1.00,Green,490
+,,,,,,Blue,114
+,,,,,,Grey,71
+080590,"Citrus fruits, fresh or dried, nes","Citrus fruit, nes",080590,1.00,1.00,Green,1145
+,,,,,,Blue,62
+,,,,,,Grey,35
+081400,"Peel of citrus fruit/melons (watermelons) fresh,frz,drid/prov presvd",,080590,0.25,0.30,Green,1370
+,,,,,,Blue,74
+,,,,,,Grey,42
+200930,"Citrus fruit juice nes exc mx unferment unspiritd,wthr/nt sug/sweet",,080590,0.55,0.70,Green,1459
+,,,,,,Blue,79
+,,,,,,Grey,45
+200980,"Fruit&veg juice nes (exc mx) unferment unspiritd,whether/not sug/sweet",,200930,1.00,1.00,Green,1459
+,,,,,,Blue,79
+,,,,,,Grey,45
+200990,Mixtures of juices unfermentd&not spiritd whether o not sugard o sweet,,200930,1.00,1.00,Green,1459
+,,,,,,Blue,79
+,,,,,,Grey,45
+080810,"Apples, fresh",Apples,080810,1.00,1.00,Green,561
+,,,,,,Blue,133
+,,,,,,Grey,127
+081330,"Apples, dried",,080810,0.12,1.00,Green,4678
+,,,,,,Blue,1111
+,,,,,,Grey,1058
+200970,Apple juice unfermented&not spiritd whether or not sugard or sweetend,,080810,0.72,1.00,Green,780
+,,,,,,Blue,185
+,,,,,,Grey,176
+080820,"Pears and quinces, fresh",Pears,080820,1.00,1.00,Green,645
+,,,,,,Blue,94
+,,,,,,Grey,183
+080910,"Apricots, fresh",Apricots,080910,1.00,1.00,Green,694
+,,,,,,Blue,502
+,,,,,,Grey,92
+081310,"Apricots, dried",,080910,0.29,1.00,Green,2392
+,,,,,,Blue,1730
+,,,,,,Grey,316
+080920_b,Sour cherries,Sour cherries,080920_b,1.00,1.00,Green,1098
+,,,,,,Blue,213
+,,,,,,Grey,99
+080920,"Cherries, fresh",Cherries,080920,1.00,1.00,Green,961
+,,,,,,Blue,531
+,,,,,,Grey,112
+081210,Cherries provisionally preservd but unsuitable f immediate consumption,,080920,1.00,1.00,Green,961
+,,,,,,Blue,531
+,,,,,,Grey,112
+080930,"Peaches, including nectarines, fresh",Peaches and nectarines,080930,1.00,1.00,Green,583
+,,,,,,Blue,188
+,,,,,,Grey,139
+080940,"Plums and sloes, fresh",Plums and sloes,080940,1.00,1.00,Green,1570
+,,,,,,Blue,188
+,,,,,,Grey,422
+081320,"Prunes, dried",,080940,0.35,1.00,Green,4487
+,,,,,,Blue,537
+,,,,,,Grey,1204
+081090ac,"Stone fruit, nes","Stone fruit, nes",081090ac,1.00,1.00,Green,868
+,,,,,,Blue,1049
+,,,,,,Grey,136
+081350,Mixtures of edible nuts or dried fruits of this chapter,,081090ac,1.00,1.00,Green,868
+,,,,,,Blue,1049
+,,,,,,Grey,136
+121230,"Apricot,peach/plum stones&kernels nes,usd primly f human consumption",,081090ac,1.00,1.00,Green,868
+,,,,,,Blue,1049
+,,,,,,Grey,136
+081010,"Strawberries, fresh",Strawberries,081010,1.00,1.00,Green,201
+,,,,,,Blue,109
+,,,,,,Grey,37
+081110,"Strawberries,uncookd o steamd o boild in water,sweetend o not,frozen",,081010,1.00,1.00,Green,201
+,,,,,,Blue,109
+,,,,,,Grey,37
+081220,Strawberries provis preservd but unsuitable f immediate consumption,,081010,1.00,1.00,Green,201
+,,,,,,Blue,109
+,,,,,,Grey,37
+081020,"Raspberries, blackberries, mulberries and loganberries, fresh",Raspberries,081020,1.00,1.00,Green,293
+,,,,,,Blue,53
+,,,,,,Grey,67
+081120,"Raspberries,mulberries,etc uncook,steam/boil in water sweetend/nt,froz",,081020,1.00,1.00,Green,293
+,,,,,,Blue,53
+,,,,,,Grey,67
+081030_b,Gooseberries,Gooseberries,081030_b,1.00,1.00,Green,487
+,,,,,,Blue,8
+,,,,,,Grey,31
+081030,"Black, white or red currants and gooseberries, fresh",,081030_a,1.00,1.00,Green,457
+,,,,,,Blue,19
+,,,,,,Grey,23
+081030_a,Currants,Currants,081030_a,1.00,1.00,Green,457
+,,,,,,Blue,19
+,,,,,,Grey,23
+081040_c,Blueberries,Blueberries,081040_c,1.00,1.00,Green,341
+,,,,,,Blue,334
+,,,,,,Grey,170
+081040,"Cranberries, bilberries and other fruits of the genus Vaccinium, fresh",Cranberries,081040,1.00,1.00,Green,91
+,,,,,,Blue,108
+,,,,,,Grey,77
+081040_b,Berries Nes,Berries Nes,081040_b,1.00,1.00,Green,200
+,,,,,,Blue,175
+,,,,,,Grey,74
+080610,"Grapes, fresh",Grapes,080610,1.00,1.00,Green,425
+,,,,,,Blue,97
+,,,,,,Grey,87
+080620,"Grapes, dried",,080610,0.25,1.00,Green,1700
+,,,,,,Blue,386
+,,,,,,Grey,347
+200960,"Grape juice (incl grape must) unferment&unspiritd,wthr/nt sug/sweet",,080610,0.75,1.00,Green,567
+,,,,,,Blue,129
+,,,,,,Grey,116
+220410,"Grape wines, sparkling",,080610,0.70,1.00,Green,607
+,,,,,,Blue,138
+,,,,,,Grey,124
+220421,"Grape wines nes,incl fort&grape must,unfermntd by add alc in ctnr</=2l",,080610,0.86,1.00,Green,494
+,,,,,,Blue,112
+,,,,,,Grey,101
+220429,"Grape wines nes,incl fort&grape must,unfermntd by add alc,in ctnr > 2l",,080610,0.86,1.00,Green,494
+,,,,,,Blue,112
+,,,,,,Grey,101
+220430,"Grape must nes, unfermented, other than that of heading No 20.09",,080610,0.86,1.00,Green,494
+,,,,,,Blue,112
+,,,,,,Grey,101
+220510,Vermouth&oth grape wines flav w plants o arom subst in ctnr </= 2 l,,220410,1.00,1.00,Green,607
+,,,,,,Blue,138
+,,,,,,Grey,124
+220590,Vermouth&oth grape wines flav with plants or arom subst in ctnr > 2 l,,220410,1.00,1.00,Green,607
+,,,,,,Blue,138
+,,,,,,Grey,124
+220600,"Fermented beverages nes (for example, cider, perry, mead, etc)",,220410,1.00,1.00,Green,607
+,,,,,,Blue,138
+,,,,,,Grey,124
+220820,Spirits obtained by distilling grape wine or grape marc,,220410,1.00,1.00,Green,607
+,,,,,,Blue,138
+,,,,,,Grey,124
+080711,Watermelons,Watermelons,080711,1.00,1.00,Green,150
+,,,,,,Blue,25
+,,,,,,Grey,63
+080719,Other melons (inc.cantaloupes),Other melons (inc.cantaloupes),080719,1.00,1.00,Green,125
+,,,,,,Blue,29
+,,,,,,Grey,67
+080420,"Figs, fresh or dried",Figs,080420,1.00,1.00,Green,1504
+,,,,,,Blue,1544
+,,,,,,Grey,227
+080450,"Guavas, mangoes and mangosteens, fresh or dried","Mangoes, mangosteens, guavas",080450,1.00,1.00,Green,1314
+,,,,,,Blue,362
+,,,,,,Grey,124
+080440,"Avocados, fresh or dried",Avocados,080440,1.00,1.00,Green,849
+,,,,,,Blue,237
+,,,,,,Grey,87
+080430,"Pineapples, fresh or dried",Pineapples,080430,1.00,1.00,Green,215
+,,,,,,Blue,9
+,,,,,,Grey,31
+200940,"Pineapple juice,unfermented&not spiritd,whether or not sugard or sweet",,080430,0.20,1.00,Green,1075
+,,,,,,Blue,45
+,,,,,,Grey,153
+080410,"Dates, fresh or dried",Dates,080410,1.00,1.00,Green,930
+,,,,,,Blue,1250
+,,,,,,Grey,98
+081090ad,Cashewapple,Cashewapple,081090ad,1.00,1.00,Green,3638
+,,,,,,Blue,34
+,,,,,,Grey,121
+081050,Kiwi fruit,Kiwi fruit,081050,1.00,1.00,Green,307
+,,,,,,Blue,168
+,,,,,,Grey,38
+080720,"Papaws (papayas), fresh",Papayas,080720,1.00,1.00,Green,399
+,,,,,,Blue,40
+,,,,,,Grey,21
+080450_b,"Fruit, tropical fresh nes","Fruit, tropical fresh nes",080450_b,1.00,1.00,Green,1455
+,,,,,,Blue,200
+,,,,,,Grey,172
+081090,"Fruits, fresh nes",Fruit Fresh Nes,081090,1.00,1.00,Green,1199
+,,,,,,Blue,201
+,,,,,,Grey,112
+081340,"Fruits, dried nes",,081090,0.25,1.00,Green,4794
+,,,,,,Blue,806
+,,,,,,Grey,448
+090111,"Coffee, not roasted, not decaffeinated","Coffee, green",090111,1.00,1.00,Green,15249
+,,,,,,Blue,116
+,,,,,,Grey,532
+090112,"Coffee, not roasted, decaffeinated",,090111,1.00,1.00,Green,15249
+,,,,,,Blue,116
+,,,,,,Grey,532
+090121,"Coffee, roasted, not decaffeinated",,090111,0.84,1.00,Green,18153
+,,,,,,Blue,139
+,,,,,,Grey,633
+090122,"Coffee, roasted, decaffeinated",,090112,0.84,1.00,Green,18153
+,,,,,,Blue,139
+,,,,,,Grey,633
+180100,"Cocoa beans, whole or broken, raw or roasted",Cocoa beans,180100,1.00,1.00,Green,19745
+,,,,,,Blue,4
+,,,,,,Grey,179
+180200,"Cocoa shells, husks, skins and other cocoa waste",,180100,0.20,0.03,Green,2662
+,,,,,,Blue,1
+,,,,,,Grey,24
+180310,Cocoa paste not defatted,,180100,0.80,0.97,Green,24015
+,,,,,,Blue,5
+,,,,,,Grey,218
+180320,Cocoa paste wholly or partly defatted,,180310,1.00,1.00,Green,24015
+,,,,,,Blue,5
+,,,,,,Grey,218
+180400,"Cocoa butter, fat and oil",,180310,0.47,0.66,Green,33626
+,,,,,,Blue,7
+,,,,,,Grey,305
+180500,"Cocoa powder, not containing added sugar or other sweetening matter",,180310,0.53,0.34,Green,15492
+,,,,,,Blue,3
+,,,,,,Grey,141
+180500a,Chocolate,,180500,-,-,Green,16805
+,,,,,,Blue,198
+,,,,,,Grey,193
+180610,"Cocoa powder, containing added sugar or other sweetening matter",,180500,1.00,1.00,Green,15492
+,,,,,,Blue,3
+,,,,,,Grey,141
+0902,Tea,Tea,0902,1.00,1.00,Green,7232
+,,,,,,Blue,898
+,,,,,,Grey,726
+090210,Green tea (not fermented) in packages not exceeding 3 kg,,0902,1.00,1.00,Green,7232
+,,,,,,Blue,898
+,,,,,,Grey,726
+090220,Green tea (not fermented) in packages exceeding 3 kg,,0902,1.00,1.00,Green,7232
+,,,,,,Blue,898
+,,,,,,Grey,726
+090230,Black tea (fermented)&partly fermentd tea in packages not exceedg 3 kg,,0902,1.00,1.00,Green,7232
+,,,,,,Blue,898
+,,,,,,Grey,726
+090240,Black tea (fermented) & partly fermented tea in packages exceedg 3 kg,,0902,1.00,1.00,Green,7232
+,,,,,,Blue,898
+,,,,,,Grey,726
+121010,"Hop cones, not ground, powdered or pelleted",Hops,121010,1.00,1.00,Green,2382
+,,,,,,Blue,269
+,,,,,,Grey,1414
+121020,"Hop cones, ground, powdered or pelleted and lupulin",,121010,1.00,1.00,Green,2382
+,,,,,,Blue,269
+,,,,,,Grey,1414
+130213,Hop extract,,121010,0.25,1.00,Green,9528
+,,,,,,Blue,1077
+,,,,,,Grey,5654
+090411,"Pepper of the genus Piper,ex cubeb pepper,neither crushd nor ground",Pepper (Piper spp.),090411,1.00,1.00,Green,6540
+,,,,,,Blue,467
+,,,,,,Grey,604
+090412,"Pepper of the genus Piper, except cubeb pepper, crushed or ground",,090411,1.00,1.00,Green,6540
+,,,,,,Blue,467
+,,,,,,Grey,604
+090420,"Fruits of the genus Capsicum or Pimenta, dried, crushed or ground","Chillies and peppers, dry",090420,1.00,1.00,Green,5869
+,,,,,,Blue,1125
+,,,,,,Grey,371
+090500,Vanilla beans,Vanilla,090500,1.00,1.00,Green,86392
+,,,,,,Blue,39048
+,,,,,,Grey,1065
+090610,Cinnamon and cinnamon-tree flowers neither crushed nor ground,Cinnamon (canella),090610,1.00,1.00,Green,14853
+,,,,,,Blue,41
+,,,,,,Grey,632
+090620,Cinnamon and cinnamon-tree flowers crushed or ground,,090610,1.00,1.00,Green,14853
+,,,,,,Blue,41
+,,,,,,Grey,632
+090700,"Cloves (whole fruit, cloves and stems)",Cloves,090700,1.00,1.00,Green,59834
+,,,,,,Blue,30
+,,,,,,Grey,1341
+0908,"Nutmeg, Mace, Cardamons","Nutmeg, mace and cardamoms",0908,1.00,1.00,Green,30683
+,,,,,,Blue,2623
+,,,,,,Grey,1014
+090910,Anise or badian seeds,"Anise, badian, fennel, corian.",090910,1.00,1.00,Green,5369
+,,,,,,Blue,1865
+,,,,,,Grey,1046
+090920,Coriander seeds,,090910,1.00,1.00,Green,5369
+,,,,,,Blue,1865
+,,,,,,Grey,1046
+091010,Ginger,Ginger,091010,1.00,1.00,Green,1525
+,,,,,,Blue,40
+,,,,,,Grey,92
+091030,Turmeric (curcuma),,091030,1.00,1.00,Green,1525
+,,,,,,Blue,40
+,,,,,,Grey,92
+091050,Curry,,091050,1.00,1.00,Green,1525
+,,,,,,Blue,40
+,,,,,,Grey,92
+091091,Mixtures of two/more of the prods of different headgs to this chapter,,091091,1.00,1.00,Green,2735
+,,,,,,Blue,242
+,,,,,,Grey,390
+091099,Spices nes,"Spices, nes",091099,1.00,1.00,Green,2735
+,,,,,,Blue,242
+,,,,,,Grey,390
+070990_d,Peppermint,Peppermint,070990_d,1.00,1.00,Green,206
+,,,,,,Blue,63
+,,,,,,Grey,19
+530110,"Flax fibre, raw or retted",Flax fibre and tow,530110,1.00,1.00,Green,2637
+,,,,,,Blue,443
+,,,,,,Grey,401
+530121,"Flax fibre, broken or scutched",,530110,1.00,1.00,Green,2637
+,,,,,,Blue,443
+,,,,,,Grey,401
+530129,"Flax fibre, otherwise processed but not spun",,530110,0.90,0.98,Green,2866
+,,,,,,Blue,481
+,,,,,,Grey,436
+530130,Flax tow and waste (including yarn waste and garnetted stock),,530110,0.10,0.02,Green,581
+,,,,,,Blue,98
+,,,,,,Grey,88
+530210,"True hemp fibre (Cannabis sativa l), raw or retted",Hemp Tow Waste,530210,1.00,1.00,Green,1824
+,,,,,,Blue,
+,,,,,,Grey,624
+530290,True hemp fibre otherwise processd but not spun;tow&waste of true hemp,,530210,0.90,1.00,Green,2026
+,,,,,,Blue,
+,,,,,,Grey,693
+530310,"Jute and other textile bast fibres, raw or retted",Jute,530310,1.00,1.00,Green,2356
+,,,,,,Blue,33
+,,,,,,Grey,217
+530390,"Jute and other tex bast fib,not spun,nes;tow and waste of these fibres",,530310,0.90,1.00,Green,2618
+,,,,,,Blue,37
+,,,,,,Grey,241
+5303ab,Other Bastfibres,Other Bastfibres,5303ab,1.00,1.00,Green,3492
+,,,,,,Blue,200
+,,,,,,Grey,500
+530590b,"Ramie & other vegetable textile fibers, raw or processed but not spun; tow, noils & waste of these fibres",Ramie,530590b,1.00,1.00,Green,3712
+,,,,,,Blue,201
+,,,,,,Grey,595
+5304_b,Sisal,Sisal,5304_b,1.00,1.00,Green,6112
+,,,,,,Blue,708
+,,,,,,Grey,222
+530410,"Sisal and other textile fibres of the genus Agave, raw",,530410,1.00,1.00,Green,6112
+,,,,,,Blue,708
+,,,,,,Grey,222
+530490,Sisal textile fibres processed but not spun;tow&waste of sisal fibres,,530410,0.90,1.00,Green,6791
+,,,,,,Blue,787
+,,,,,,Grey,246
+5304c,Agave Fibres Nes,Agave Fibres Nes,5304c,1.00,1.00,Green,6434
+,,,,,,Blue,9
+,,,,,,Grey,106
+530521,"Abaca fibre, raw",Manila Fibre (Abaca),530521,1.00,1.00,Green,19376
+,,,,,,Blue,246
+,,,,,,Grey,766
+530529,"Abaca fibre,processed but not spun;tow,noils and waste of abaca fibres",,530521,0.90,1.00,Green,21529
+,,,,,,Blue,273
+,,,,,,Grey,851
+530590a,Fibre Crops Nes,Fibre Crops Nes,530590a,1.00,1.00,Green,5796
+,,,,,,Blue,142
+,,,,,,Grey,270
+530591,"Vegetable textile fibres nes, raw",,530591,1.00,1.00,Green,5796
+,,,,,,Blue,142
+,,,,,,Grey,270
+530599,"Vegetable tex fib nes,processd nt spun;tow,noils&waste of these fibres",,530591,0.90,1.00,Green,6440
+,,,,,,Blue,157
+,,,,,,Grey,300
+240110,"Tobacco, unmanufactured, not stemmed or stripped","Tobacco, unmanufactured",240110,1.00,1.00,Green,2021
+,,,,,,Blue,205
+,,,,,,Grey,700
+240120,"Tobacco, unmanufactured, partly or wholly stemmed or stripped",,240110,1.00,1.00,Green,2021
+,,,,,,Blue,205
+,,,,,,Grey,700
+240130,Tobacco refuse,,240110,1.00,1.00,Green,2021
+,,,,,,Blue,205
+,,,,,,Grey,700
+400110,Natural rubber,Natural rubber,400110,1.00,1.00,Green,12964
+,,,,,,Blue,361
+,,,,,,Grey,422
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

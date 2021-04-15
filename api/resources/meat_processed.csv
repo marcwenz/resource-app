@@ -1,0 +1,106 @@
+Product code (HS),Product description (HS),Product description (FAOSTAT),Root product (HS),Product fraction (pf),Value fraction (vf),Global average (Green),Global average (Blue),Global average (Grey),Total Global average
+10111.0,"Horses, live pure-bred breeding",Horses,010111,1.0,1.0,37179,2462,971,40612
+10119.0,"Horses, live except pure-bred breeding",,010111,1.0,1.0,37179,2462,971,40612
+10120.0,"Asses, mules and hinnies, live","Asses, mules, hinnies",010111,1.0,1.0,37179,2462,971,40612
+10210.0,"Bovine, live pure-bred breeding","Bov.animals,pure,breedng",010210,1.0,1.0,7002,256,219,7477
+10290.0,"Bovine, live except pure-bred breeding",Other bovine animals,010210,1.0,1.0,7002,256,219,7477
+10310.0,"Swine, live pure-bred breeding","Swine,pure,for breeding",010310,1.0,1.0,3155,276,400,3831
+10391.0,"Swine, live except pure-bred breeding weighing less than 50 kg","Other swine, live",010310,1.0,1.0,3155,276,400,3831
+10392.0,"Swine, live except pure-bred breeding weighing 50 kg or more",,010310,1.0,1.0,3155,276,400,3831
+10410.0,"Sheep, live","Sheep, live",010410,1.0,1.0,4278,207,33,4518
+10420.0,"Goats, live","Goats, live",010420,1.0,1.0,2900,175,3,3078
+10511.0,"Fowls, live domestic weighing not more than 185 g","Poultry, live, to 185g",010599,10.0,1.0,277,23,36,336
+10519.0,"Poultry, live except domestic fowls, weighing not more than 185 g",,010599,1.0,1.0,2765,234,364,3363
+10599.0,"Poultry, live except domestic fowls, weighing more than 185 g","Poultry, live,over 185g",010599,1.0,1.0,2765,234,364,3363
+20110.0,"Bovine carcasses and half carcasses, fresh or chilled","Bovine meat,fh,ch,w.bone",010210,0.57,0.83,10234,389,320,10943
+20120.0,"Bovine cuts bone in, fresh or chilled",,020110,1.0,1.0,10234,389,320,10943
+20130.0,"Bovine cuts boneless, fresh or chilled","Bovine meat,fh,ch,bnless",020120,0.71,1.0,14414,550,451,15415
+20210.0,"Bovine carcasses and half carcasses, frozen","Bovine meat,frozn,w.bone",020110,1.0,1.0,10234,389,320,10943
+20220.0,"Bovine cuts bone in, frozen",,020120,1.0,1.0,10234,389,320,10943
+20230.0,"Bovine cuts boneless, frozen","Bovine meat,frz,boneless",020130,1.0,1.0,14414,550,451,15415
+20311.0,"Swine carcasses and half carcasses, fresh or chilled","Meat of swine,frsh,chlld",010310,0.76,0.86,3582,325,454,4361
+20312.0,"Hams, shoulders and cuts thereof, of swine bone in, fresh or chilled",,020311,0.77,1.0,4652,435,590,5677
+20319.0,"Swine cuts, fresh or chilled, nes",,020311,0.73,1.0,4907,459,622,5988
+20321.0,"Swine carcasses and half carcasses, frozen","Meat of swine, frozen",020311,1.0,1.0,3582,325,454,4361
+20322.0,"Hams, shoulders and cuts thereof, of swine, bone in, frozen",,020312,1.0,1.0,4652,435,590,5677
+20329.0,"Swine cuts, frozen nes",,020319,1.0,1.0,4907,459,622,5988
+20410.0,"Lamb carcasses and half carcasses, fresh or chilled",,010410,0.76,0.89,5008,254,39,5301
+20421.0,"Sheep carcasses and half carcasses, fresh or chilled","Meat of sheep,frsh,chlld",010410,0.5,0.89,7851,398,61,8310
+20422.0,"Sheep cuts, bone in, fresh or chilled",,020421,1.0,1.0,7851,408,61,8320
+20423.0,"Sheep cuts, boneless, fresh or chilled",,020422,0.8,1.0,9813,522,76,10411
+20430.0,"Lamb carcasses and half carcasses, frozen",,020410,1.0,1.0,5008,254,39,5301
+20441.0,"Sheep carcasses and half carcasses, frozen","Meat of sheep, frozen",020421,1.0,1.0,7851,398,61,8310
+20442.0,"Sheep cuts, bone in, frozen",,020422,1.0,1.0,7851,408,61,8320
+20443.0,"Sheep cuts, boneless, frozen",,020423,1.0,1.0,9813,522,76,10411
+20450.0,"Goat meat, fresh, chilled or frozen",Meat of goats,010420,0.5,0.87,5185,330,6,5521
+20500.0,"Horse, ass, mule or hinny meat, fresh, chilled or frozen","Meat of horses,mules,etc",010111,0.68,0.87,47367,3175,1237,51779
+20610.0,"Bovine edible offal, fresh or chilled","Edible offal,bov.frsh,ch",010210,0.07,0.1,10433,396,326,11155
+20621.0,"Bovine tongues, edible offal, frozen",,020610,0.1,0.24,24751,940,774,26465
+20622.0,"Bovine livers, edible offal, frozen",,020610,0.6,0.42,7291,277,228,7796
+20629.0,"Bovine edible offal, frozen nes","Edible offal,bov.,frozen",020610,0.3,0.34,11824,449,370,12643
+20630.0,"Swine edible offal, fresh or chilled","Edible offal,swine,fh,ch",010310,0.04,0.01,1030,93,131,1254
+20641.0,"Swine livers, edible offal, frozen",,020630,0.6,0.33,562,51,71,684
+20649.0,"Swine edible offal, frozen nes","Edible offal,swine,frzen",020630,1.0,1.0,1030,93,131,1254
+20680.0,"Sheep, goats, asses, mules or hinnies edible offal, fresh or chilled","Ed.off.sheep,horse,fh,ch",010410,0.08,0.06,2978,151,23,3152
+20690.0,"Sheep, goats, asses, mules or hinnies edible offal, frozen","Ed.off.sheep,horse,frozn",020680,1.0,1.0,2978,151,23,3152
+20900.0,"Pig fat lean meat free&poultry fat unrenderd,frsh,chilld,frozn or curd","Pig,poultry fat unrendrd",010310,0.78,1.0,3545,313,467,4325
+21011.0,"Hams, shoulders and cuts thereof, of swine bone in, cured","Hams,shoulders with bone",020312,0.98,1.0,4747,449,602,5798
+21012.0,"Bellies, streaky and cuts thereof, swine cured",Bellies (streaky),020319,0.98,1.0,5007,474,635,6116
+21019.0,"Swine meat cured, nes","Oth.pigmeat,dry,salt,smk",020311,0.7,1.0,5117,472,649,6238
+21020.0,Bovine meat cured,"Bov.meat,dried,smkd,salt",020110,0.46,1.0,22247,856,696,23799
+40110.0,Milk not concentrated and unsweetened not exceeding 1% fat,"Milk,fat cont.1% or less",FAO882,0.93,1.0,863,86,72,1021
+40120.0,Milk not concentrated & unsweetened exceeding 1% not exceeding 6% fat,"Milk,cream fat cont.1-6%",FAO882,0.9,1.0,891,88,75,1054
+40130.0,Milk and cream not concentrated and unsweetened exceeding 6% fat,"Cream,fat content 6%+",FAO882,0.5,1.0,1605,159,134,1898
+40210.0,Milk powder not exceeding 1.5% fat,"Milk,solid, to 1.5% fat",FAO882,0.2,1.0,4011,398,336,4745
+40221.0,Milk and cream powder unsweetened exceeding 1.5% fat,"Milk,crm solid 1.5%+ fat",FAO882,0.2,1.0,4011,398,336,4745
+40229.0,Milk and cream powder sweetened exceeding 1.5% fat,,040221,1.0,1.0,4011,408,336,4755
+40291.0,"Milk and cream unsweetened, nes","Milk,cream unsweetened",FAO882,0.5,0.83,1334,132,112,1578
+40299.0,Milk and cream nes sweetened,"Milk,cream, sweetened",040130,1.0,1.0,1605,164,134,1903
+40310.0,"Yogurt concentratd o not,sweetend o not,flavourd o contg fruit o cocoa",Yogurt,FAO882,0.8,1.0,1003,99,84,1186
+40390.0,"Buttermilk,curdled milk & cream,kephir & ferm or acid milk & cream nes",Buttermilk,FAO882,0.1,0.17,1352,134,113,1599
+40410.0,Whey whether or not concentrated or sweetened,Whey,FAO882,0.73,0.5,547,54,46,647
+40490.0,Products consisting of natural milk constituents sweetened or not nes,Milk products nes,FAO882,0.8,1.0,1003,99,84,1186
+40510.0,Butter,butter,FAO882,0.05,0.28,4695,465,393,5553
+40610.0,"Cheese, fresh (including whey cheese) unfermented, and curd","Fresh cheese,unfermented",FAO882,0.15,0.5,2687,266,225,3178
+40620.0,"Cheese, grated or powdered, of all kinds","Cheese, powdered, grated",040610,0.63,1.0,4264,439,357,5060
+40630.0,"Cheese processed, not grated or powdered","Processed cheese, whole",040610,0.63,1.0,4264,439,357,5060
+40640.0,"Cheese, blue-veined",Blue-veined cheese,040610,0.63,1.0,4264,439,357,5060
+40690.0,Cheese nes,"Other cheese, curd",040610,0.63,1.0,4264,439,357,5060
+40700.0,"Eggs, bird, in shell, fresh, preserved or cooked","Birds' eggs, in shell",040700,1.0,1.0,2592,244,429,3265
+40811.0,Egg yolks dried,"Egg,unshelld;yolks,dried",040819,0.5,1.0,5184,508,857,6549
+40819.0,Egg yolks nes,"Egg,unshelld;ylk,not dry",040700,1.0,1.0,2592,249,429,3270
+40891.0,"Eggs, bird, not in shell, dried",,040899,0.75,1.0,3840,375,635,4850
+40899.0,"Eggs, bird, not in shell nes",,040700,0.9,1.0,2880,276,476,3632
+50210.0,"Bristles, hair and waste of pigs, hogs or boars","Bristle,hair for brushes",010310,0.01,0.03,11459,1040,1452,13951
+50300.0,Horsehair&waste put up or not as a layer with or without supg material,Horsehair and waste,010111,0.01,0.02,78614,5269,2053,85936
+51110.0,Semen bovine,Bovine semen,010210,0.0001,0.02,1068693,40581,33430,1142704
+160231.0,"Turkey meat and meat offal prepared or preserved, excluding livers","Poultry,prprd,prsrvd,nes",010599,0.78,1.0,3545,313,467,4325
+160239.0,"Dom fowl,duck,goose&guinea fowl meat&meat offal prep/presvd exc livers",,010511,0.78,1.0,3545,313,467,4325
+160241.0,Hams and cuts thereof of swine prepared or preserved,"Pork,prepred,presrvd,nes",020312,0.88,1.0,5287,500,670,6457
+160242.0,Shoulders and cut thereof of swine prepared or preserved,,020312,0.98,1.0,4747,444,602,5793
+160249.0,"Swine meat&meat offal nes/exc livers/ incl mixtures,prepard o preservd",,020630,0.3,0.33,1125,102,143,1370
+160250.0,"Bovine meat and meat offal nes,excluding livers, prepared or preserved","Bov.meat,prpd,prsrvd,nes",020610,0.6,1.0,17388,660,544,18592
+410110.0,"Bovine skins, whole, raw",Whole bovin.hide<8kg dry,010210,0.06,0.05,6366,242,199,6807
+410121.0,"Bovine hides, whole, fresh or wet-salted","Bovine hides,skins,fresh",410130,0.8,1.0,7958,315,249,8522
+410122.0,"Butts and bends, bovine, fresh or wet-salted",,410130,0.8,1.0,7958,315,249,8522
+410129.0,"Hide sections, bovine, nes, fresh or wet-salted",,410130,0.8,1.0,7958,315,249,8522
+410130.0,"Bovine hides, raw, nes","Bovine hides,skins,other",010210,0.06,0.05,6366,242,199,6807
+410140.0,"Equine hides and skins, raw","Equine hides,skins",010210,0.06,0.11,13132,499,411,14042
+410210.0,"Sheep or lamb skins, raw, with wool on, nes","Sheep skin,excpt.furskin",010410,0.08,0.06,3107,158,24,3289
+410221.0,"Sheep or lamb skins, pickled, without wool on",Sheep skin without wool,410210,0.95,1.0,3270,171,25,3466
+410229.0,"Sheep or lamb skins, raw, o/t pickled, without wool on",,410210,0.95,1.0,3270,171,25,3466
+410310.0,"Goat or kid hides and skins, raw, nes","Goat,kid skin,ex.furskin",010420,0.08,0.13,4611,294,5,4910
+410410.0,"Bovine skin leather, whole",Whole bovine skin leathr,410110,0.4,1.0,15916,679,498,17093
+410421.0,"Bovine leather, vegetable pre-tanned, nes","Oth.bov.,eqn.lthr,tanned",410121,0.5,1.0,15916,669,498,17083
+410422.0,"Bovine leather, otherwise pre-tanned, nes",,410121,0.5,1.0,15916,649,498,17063
+410429.0,"Bovine and equine leather, tanned or retanned, nes",,410121,0.5,1.0,15916,649,498,17063
+410431.0,"Bovine and equine leather, full/split grains, nes","Oth.bov.,eqn.lthr,preprd",410121,0.5,1.0,15916,689,498,17103
+410439.0,"Bovine and equine leather, nes",,410140,0.4,1.0,32829,1322,1027,35178
+410511.0,"Sheep or lamb skin leather, vegetable pre-tanned","Sheepskin leather,tanned",410221,0.9,1.0,3634,212,28,3874
+410512.0,"Sheep or lamb skin leather, otherwise pre-tanned",,410221,0.9,1.0,3634,212,28,3874
+410519.0,"Sheep or lamb skin leather, tanned or retanned, nes",,410221,0.9,1.0,3634,212,28,3874
+410520.0,"Sheep or lamb skin leather, nes","Sheepskin leather,preprd",410221,0.9,1.0,3634,212,28,3874
+410611.0,"Goat or kid skin leather, vegetable pre-tanned","Goatskin leather,tanned",410310,0.9,1.0,5123,349,6,5478
+410612.0,"Goat or kid skin leather, otherwise pre-tanned",,410310,0.9,1.0,5123,349,6,5478
+410619.0,"Goat or kid skin leather, tanned or retanned, nes",,410310,0.9,1.0,5123,349,6,5478
+410620.0,"Goat or kid skin leather, nes","Goatskin leather,preprd",410310,0.9,1.0,5123,349,6,5478
