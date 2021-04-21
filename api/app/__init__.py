@@ -18,6 +18,7 @@ app.config.from_object("config.Config")
 # migrate = Migrate()
 cors = CORS()
 foods = Foods()
+# db = SQLAlchemy()
 
 # Application Configuration
 # db.init_app(app)

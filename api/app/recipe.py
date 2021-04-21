@@ -6,7 +6,7 @@ QUANTITY = "Quantity"
 
 
 class Recipe:
-    def __init__(self, ingredients: list or pd.DataFrame):
+    def __init__(self, ingredients: dict):
         """
         Recipe
 

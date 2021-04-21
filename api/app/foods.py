@@ -1,22 +1,31 @@
-from .constants import FOOD_PATH, PRODUCT_DESCRIPTION
-import pandas as pd
+from .constants import FOOD_PATH
+import csv
 
 
 class Foods:
-    def __getitem__(self, ix) -> pd.Series:
-        return self.foods.iloc[ix]
+    def __getitem__(self, ix):
+        key = self.foods.keys()[ix]
+        return (key, self.foods[key])
 
-    def filterItems(self, item) -> pd.DataFrame:
-        mask = self.foods[PRODUCT_DESCRIPTION].str.contains(item)
-        return self.foods[mask]
+    def filterItems(self, item):
+        mask = {
+            key: val
+            for key, val in self.foods.items()
+            if key.lower().find(item.lower()) != -1
+        }
+        return mask
 
     def __init__(self):
-        self.foods = pd.read_csv(FOOD_PATH)
+        with open(FOOD_PATH, mode="r") as f:
+            csvreader = csv.reader(f, delimiter=",", quotechar='"')
+            next(csvreader)
+            self.foods = {line[1]: float(line[-1]) for line in csvreader}
+            print(self.foods)
 
-    def get_all_names(self):
-        return self.foods[PRODUCT_DESCRIPTION]
+    def all_foods(self):
+        return self.foods.keys()
 
 
 if __name__ == "__main__":
     f = Foods()
-    f.findItem("Wheat")
+    print(f.filterItems("Wheat"))
