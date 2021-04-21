@@ -1,0 +1,21 @@
+.SearchFilter {
+  padding-top: 20px;
+  align-items: left;
+  /* display: flex;
+  flex-direction: column; */
+  justify-content: left;
+  /* width: 50%; */
+  border: 1px solid black;
+}
+
+.itemcontainer {
+  align-items: center;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  margin: auto;
+}
+
+.restfilter {
+  width: 50%;
+}

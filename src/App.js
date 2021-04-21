@@ -1,21 +1,20 @@
 import "./App.css";
-import { TextField, Button } from "@material-ui/core";
+import { React } from "react";
+import SearchFilter from "./Search/SearchFilter";
+import IngredientDisplay from "./Ingredient/IngredientDisplay";
+import { Grid } from "@material-ui/core";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <form className="resourceForm" noValidate autoComplete="off">
-          <TextField id="outlined-basic" label="Resource" variant="outlined" />
-          <Button
-            variant="contained"
-            color="primary"
-            style={{ margin: "10px" }}
-          >
-            Search
-          </Button>
-        </form>
-      </header>
+      <Grid container spacing={3} className="gridcontainer">
+        <Grid item xs={6} style={{ height: "100%" }}>
+          <SearchFilter />
+        </Grid>
+        <Grid item xs={6} style={{ height: "100%" }}>
+          <IngredientDisplay />
+        </Grid>
+      </Grid>
     </div>
   );
 }
